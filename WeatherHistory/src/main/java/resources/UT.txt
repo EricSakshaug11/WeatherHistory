@@ -1,0 +1,22 @@
+BLANDING:KBDG
+Bolinder Field-Tooele Valley Airport:KTVY
+BRIGHAM CITY AIRPORT:KBMC
+Bryce Canyon Airport:KBCE
+Cedar City Municipal Airport:KCDC
+Delta, Delta Municipal Airport:KDTA
+Eagle Range:KU16
+Hanksville:KHVE
+Hill Air Force Base:KHIF
+Logan-Cache Airport:KLGU
+Michael Army Airfield - Dugway Proving Ground:KDPG
+Milford Municipal Airport:KMLF
+Moab, Canyonlands Field:KCNY
+Ogden-Hinckley Airport:KOGD
+Price - Carbon County Regional Airport:KPUC
+Provo, Provo Municipal Airport:KPVU
+ROOSEVELT:K74V
+Salt Lake City, Salt Lake City International Airport:KSLC
+Salt Lake City, Salt Lake City Municipal 2 Airport:KU42
+St George Municipal Airport:KSGU
+Vernal Airport:KVEL
+Wendover / Air Force Auxillary Field:KENV

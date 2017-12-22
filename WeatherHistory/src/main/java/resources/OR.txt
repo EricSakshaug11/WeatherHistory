@@ -1,0 +1,34 @@
+Astoria, Astoria Regional Airport:KAST
+Aurora State Airport:KUAO
+Baker Municipal Airport:KBKE
+Bend Airport AWOS:KBDN
+Brookings, Brookings Airport:KBOK
+Burns Municipal Airport:KBNO
+Corvallis, Corvallis Municipal Airport:KCVO
+Eastern Oregon Regional Airport at Pendleton:KPDT
+Eugene, Mahlon Sweet Field:KEUG
+Grant County Regional Airport:KGCD
+Grants Pass Airport:K3S8
+Hermiston, Hermiston Municipal Airport:KHRI
+Hood River Airport:K4S2
+Klamath Falls International Airport:KLMT
+La Grande/Union County Airport:KLGD
+Lake County Airport:KLKV
+Madras Municipal Airport:KS33
+McMinnville, McMinnville Municipal Airport:KMMV
+Meacham:KMEH
+Newport, Newport Municipal Airport:KONP
+Ontario Municipal Airport:KONO
+Portland, Portland International Airport:KPDX
+Portland, Portland-Troutdale Airport:KTTD
+Portland-Hillsboro Airport:KHIO
+Prineville Airport:KS39
+Redmond Roberts Field:KRDM
+Rogue Valley International Airport:KMFR
+Rome:KREO
+Roseburg Regional Airport:KRBG
+Salem - McNary Field:KSLE
+Scappoose Industrial Airpark:KSPB
+Sexton Summit:KSXT
+Southwest Oregon Regional Airport:KOTH
+Tillamook, Tillamook Airport:KTMK

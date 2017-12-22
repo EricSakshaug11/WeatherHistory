@@ -1,0 +1,21 @@
+Aberdeen, Aberdeen Regional Airport:KABR
+Brookings, Brookings Municipal Airport:KBKX
+Buffalo:K2WX
+Chamberlain, Chamberlain Municipal Airport:K9V9
+Custer, Custer County Airport:KCUT
+Ellsworth Air Force Base:KRCA
+Faith:KD07
+Huron, Huron Regional Airport:KHON
+Madison Municipal Airport:KMDS
+Mitchell, Mitchell Municipal Airport:KMHE
+Mobridge, Mobridge Municipal Airport:KMBG
+Philip, Philip Airport:KPHP
+Pierre, Pierre Regional Airport:KPIR
+Pine Ridge, Pine Ridge Airport:KIEN
+Rapid City, Rapid City Regional Airport:KRAP
+Sioux Falls, Foss Field:KFSD
+Sisseton, Sisseton Municipal Airport:K8D3
+Spearfish / Clyde Ice:KSPF
+Watertown, Watertown Municipal Airport:KATY
+Winner, Bob Wiley Field Airport:KICR
+Yankton, Chan Gurney Municipal Airport:KYKN

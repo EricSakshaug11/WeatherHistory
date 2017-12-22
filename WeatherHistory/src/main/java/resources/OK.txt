@@ -1,0 +1,51 @@
+Ada, Ada Municipal Airport:KADH
+Altus Air Force Base:KLTS
+Altus, Altus/Quartz Mountain Regional Airport:KAXS
+Alva, Alva Regional Airport:KAVK
+Ardmore, Ardmore Downtown Executive Airport:K1F0
+Ardmore, Ardmore Municipal Airport:KADM
+Atoka, Atoka Municipal Airport:KAQR
+Bartlesville, Bartlesville Municipal Airport:KBVO
+Blackwell-Tonkawa Municipal Airport:KBKN
+Chandler, Chandler Municipal Airport:KCQB
+Chickasha, Chickasha Municipal Airport:KCHK
+Claremore, Claremore Regional Airport:KGCM
+Clinton, Clinton Regional Airport:KCLK
+Clinton, Clinton-Sherman Airport:KCSM
+Cushing, Cushing Municipal Airport:KCUH
+Duncan, Halliburton Field Airport:KDUC
+Durant, Eaker Field Airport:KDUA
+El Reno, El Reno Regional Airport:KRQO
+Elk City Regional Business Airport:KELK
+Enid, Enid Woodring Regional Airport:KWDG
+Fort Sill:KFSI
+Frederick, Frederick Municipal Airport:KFDR
+Gage, Gage Airport:KGAG
+Grove, Grove Municipal Airport:KGMJ
+Guthrie, Guthrie Municipal Airport:KGOK
+Guymon / Guymon Municipal Airport:KGUY
+Hobart, Hobart Municipal Airport:KHBR
+Hugo Stan Stamper Municipal Airport:KHHW
+Idabel, Mc Curtain County Regional Airport:K4O4
+Lawton, Lawton Municipal Airport:KLAW
+McAlester, McAlester Regional Airport:KMLC
+Muskogee, Davis Field:KMKO
+Norman / Max Westheimer:KOUN
+Oklahoma City, Wiley Post Airport:KPWA
+Oklahoma City, Will Rogers World Airport:KOKC
+Okmulgee, Okmulgee Municipal Airport:KOKM
+Pauls Valley, Pauls Valley Municipal Airport:KPVJ
+Ponca City, Ponca City Municipal Airport:KPNC
+Poteau, Robert S Kerr Airport:KRKR
+Sallisaw, Sallisaw Municipal Airport:KJSV
+Sand Springs, William R Pogue Municipal Airport:KOWP
+Shawnee, Shawnee Municipal Airport:KSNL
+Stillwater, Stillwater Regional Airport:KSWO
+Tahlequah, Tahlequah Municipal Airport:KTQH
+Tinker Air Force Base:KTIK
+Tulsa - Jones Jr. Airport:KRVS
+Tulsa, Tulsa International Airport:KTUL
+Vance Air Force Base / Enid:KEND
+Watonga, Watonga Airport:KJWG
+Weatherford, Thomas P Stafford Airport:KOJA
+Woodward, West Woodward Airport:KWWR

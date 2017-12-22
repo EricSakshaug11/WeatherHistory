@@ -1,0 +1,42 @@
+Allentown Queen City Municipal Airport:KXLL
+Allentown, Lehigh Valley International Airport:KABE
+Altoona - Blair County Airport:KAOO
+Beaver County Airport:KBVI
+Bedford, Bedford County Airport:KHMZ
+Bradford Regional Airport:KBFD
+Butler, Butler County Airport/K W Scholter Field:KBTP
+Chester County Airport:KMQS
+Clearfield, Clearfield-Lawrence Airport:KFIG
+Doylestown, Doylestown Airport:KDYL
+Du Bois - Jefferson County Airport:KDUJ
+Erie, Erie International Airport:KERI
+Franklin, Venango Regional Airport:KFKL
+Harrisburg, Capital City Airport:KCXY
+Harrisburg, Harrisburg International Airport:KMDT
+Hazleton Municipal Airport:KHZL
+Indiana / Stewart Field:KIDI
+Johnstown - Cambria County Airport:KJST
+Lancaster, Lancaster Airport:KLNS
+Latrobe / Westmorland:KLBE
+Lehighton Jake Arner Memorial Airport:K22N
+Mount Pocono, Pocono Mountains Municipal Airport:KMPO
+Muir Army Air Field / Indiantown:KMUI
+New Castle, New Castle Municipal Airport:KUCP
+PERKASIE:KCKZ
+Philadelphia - Wings Field Airport:KLOM
+Philadelphia, Northeast Philadelphia Airport:KPNE
+Philadelphia, Philadelphia International Airport:KPHL
+Pittsburgh - Allegheny County Airport:KAGC
+Pittsburgh, Pittsburgh International Airport:KPIT
+Port Meadville Airport:KGKJ
+Pottstown, Pottstown Limerick Airport:KPTW
+Quakertown Airport:KUKT
+Reading, Reading Regional Airport:KRDG
+Selinsgrove Penn Valley Airport:KSEG
+Somerset County Airport:K2G9
+State College - University Park Airport:KUNV
+Washington, Washington County Airport:KAFJ
+Wellsboro Johnston Airport:KN38
+Wilkes-Barre - Scranton, Wilkes-Barre / Scranton International Airport:KAVP
+Williamsport - Lycoming County Airport:KIPT
+York, York Airport:KTHV

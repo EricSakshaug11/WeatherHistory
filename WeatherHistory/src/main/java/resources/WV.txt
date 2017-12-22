@@ -1,0 +1,17 @@
+Beckley, Raleigh County Memorial Airport:KBKW
+Bluefield, Mercer County Airport:KBLF
+Buckhannon, Upshur County Regional Airport:KW22
+Charleston, Yeager Airport:KCRW
+Clarksburg, Clarksburg Benedum Airport:KCKB
+Cumberland, Greater Cumberland Regional Airport:KCBE
+Eastern WV Regional Airport/Shepherd Field:KMRB
+Elkins, Elkins-Randolph County-Jennings Randolph Field:KEKN
+Huntington, Tri-State Airport:KHTS
+Lewisburg / Greenbrier:KLWB
+Logan County Airport:K6L4
+Morgantown Municipal-Hart Field:KMGW
+Parkersburg, Mid-Ohio Valley Regional Airport:KPKB
+Petersburg, Grant County Airport:KW99
+Pineville, Kee Field Airport:KI16
+Point Pleasant, Mason County Airport:K3I2
+Wheeling, Wheeling Ohio County Airport:KHLG

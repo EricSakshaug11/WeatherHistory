@@ -1,0 +1,51 @@
+Akron Canton Regional Airport:KCAK
+Akron, Akron Fulton International Airport:KAKR
+Ashtabula - Northeast Ohio Regional Airport:KHZY
+Batavia Clermont County Airport:KI69
+Bellefontaine Regional Airport:KEDJ
+Butler County Regional Airport:KHAO
+Cambridge Municipal Airport:KCDI
+Chillicothe Ross County Airport:KRZT
+Cincinnati W Airport:KI67
+Cincinnati, Cincinnati Municipal Airport Lunken Field:KLUK
+Cleveland / Cuyahoga:KCGF
+Cleveland Hopkins International Airport:KCLE
+Cleveland, Burke Lakefront Airport:KBKL
+Columbus, Bolton Field Airport:KTZR
+Columbus, Ohio State University Airport:KOSU
+Dayton / Wright-Patterson Air Force Base:KFFO
+Dayton, Cox Dayton International Airport:KDAY
+Dayton, Dayton-Wright Brothers Airport:KMGY
+Defiance, Defiance Memorial Airport:KDFI
+Delaware Municipal Airport:KDLZ
+Fayette County Airport:KI23
+Findlay, Findlay Airport:KFDY
+Hook Field Municipal Airport:KMWO
+John Glenn Columbus International Airport:KCMH
+Knox County Airfield:K4I3
+Lancaster, Fairfield County Airport:KLHQ
+Lewis A. Jackson Regional Airport:KI19
+Lima, Lima Allen County Airport:KAOH
+London Madison County Airport:KUYF
+Lorain / Elyria, Lorain County Regional Airport:KLPR
+Mansfield - Mansfield Lahm Regional Airport:KMFD
+Marion, Marion Municipal Airport:KMNN
+Marysville Union County Airport:KMRT
+New Philadelphia, Harry Clever Field:KPHD
+Newark, Newark Heath Airport:KVTA
+OHIO U/ATHEN-ALBANY:KUNI
+Ottawa Putnam County Airport:KOWX
+Portage County Airport:KPOV
+Rickenbacker Air National Guard Base:KLCK
+Springfield, Springfield-Beckley Municipal Airport:KSGH
+Toledo - Toledo Executive Airport:KTDZ
+Toledo - Toledo Express Airport:KTOL
+Versailles Darke County Airport:KVES
+WAPAKONETA:KAXV
+WARREN:KI68
+Wauseon Fulton County Airport:KUSE
+Willoughby:KLNN
+Wilmington, Airborne Airpark Airport:KILN
+Wooster, Wayne County Airport:KBJJ
+Youngstown, Youngstown-Warren Regional Airport:KYNG
+Zanesville, Zanesville Municipal Airport:KZZV

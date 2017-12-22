@@ -1,0 +1,41 @@
+Athens McMinn County Airport:KMMI
+BOLIVAR/WILLIAM L WHITEHURST:KM08
+Bristol / Johnson / Kingsport, Tri-City Regional Airport:KTRI
+Chattanooga, Lovell Field:KCHA
+Clarksville Outlaw Field:KCKV
+Cleveland Regional Jetport:KRZR
+Columbia / Maury County:KMRC
+COVINGTON MUNI:KM04
+Crossville, Crossville Memorial-Whitson Field Airport:KCSV
+Dayton:K2A0
+Dyersburg, Dyersburg Municipal Airport:KDYR
+Elizabethton Municipal Airport:K0A9
+Fayetteville Municipal Airport:KFYM
+Huntingdon Carroll County Airport:KHZD
+Jacksboro Campbell County Airport:KJAU
+Jackson, McKellar-Sipes Regional Airport:KMKL
+John C Tune Airport:KJWN
+Knoxville Downtown Airport:KDKX
+Knoxville, McGhee Tyson Airport:KTYS
+Lexington-Parsons Beech River Regional Airport:KPVE
+McMinnville Warren County Memorial Airport:KRNC
+Memphis International Airport:KMEM
+Millington, Millington Municipal Airport:KNQA
+Monroe County Airport:KMNV
+Morristown Moore-Murrell Airport:KMOR
+Nashville, Nashville International Airport:KBNA
+Oak Ridge:KOQT
+Paris - Henry County Airport:KPHT
+Portland Municipal Airport:K1M5
+Pulaski Abernathy Field Airport:KGZS
+SAVANNAH/HARDIN CO:KSNH
+Sevierville Gatlinburg - Pigeon Forge Airport:KGKT
+Shelbyville Bomar Field & Shelbyville Municipal Airport:KSYI
+Smyrna, Smyrna Airport:KMQY
+Somerville - Fayette County Airport:KFYE
+Sparta Upper Cumberland Regional Airport:KSRB
+Springfield Robertson County Airport:KM91
+Sumner County Regional Airport:KM33
+Tullahoma Regional Airport/William Northern Field:KTHA
+Union City - Everett-Stewart Regional Airport:KUCY
+Winchester Municipal Airport:KBGF

@@ -1,0 +1,43 @@
+Albany International Airport:KALB
+Binghamton, Binghamton Regional Airport:KBGM
+Buffalo, Greater Buffalo International Airport:KBUF
+CATTARAUGUS COUNTY-OLEAN:KOLE
+Cortland County-Chase Field:KN03
+Dansville, Dansville Municipal Airport:KDSV
+Dunkirk, Chautauqua County / Dunkirk Airport:KDKK
+East Hampton, East Hampton Airport:KHTO
+Elmira, Elmira / Corning Regional Airport:KELM
+Farmingdale - Republic Airport:KFRG
+Fort Drum / Wheeler-Sack U. S. Army Airfield:KGTB
+Fulton, Oswego County Airport:KFZY
+Glens Falls, Floyd Bennett Memorial Airport:KGFL
+Griffiss Air Force Base / Rome:KRME
+Islip, Long Island Mac Arthur Airport:KISP
+Ithaca, Ithaca Tompkins Regional Airport:KITH
+Jamestown, Chautauqua County/Jamestown Airport:KJHW
+JOHNSTOWN:KNY0
+Massena, Massena International-Richards Field:KMSS
+Montauk, Montauk Airport:KMTP
+Montgomery, Orange County Airport:KMGJ
+Monticello, Sullivan County International Airport:KMSV
+New York City, Central Park:KNYC
+New York Downtown Manhattan:KJRB
+New York, Kennedy International Airport:KJFK
+New York, La Guardia Airport:KLGA
+Newburgh / Stewart:KSWF
+Niagara Falls, Niagara Falls International Airport:KIAG
+Ogdensburg International Airport:KOGS
+Penn Yan, Penn Yan Airport:KPEO
+Plattsburgh International Airport:KPBG
+Poughkeepsie, Dutchess County Airport:KPOU
+Rochester, Greater Rochester International Airport:KROC
+Saranac Lake, Adirondack Regional Airport:KSLK
+Schenectady Airport:KSCH
+Shirley, Brookhaven Airport:KHWV
+Skaneateles Aero Drome:K6B9
+Syracuse, Syracuse Hancock International Airport:KSYR
+The Gabreski Airport:KFOK
+Watertown, Watertown International Airport:KART
+WAYNE:KSDC
+Wellsville, Wellsville Municipal Airport:KELZ
+White Plains - Westchester County Airport:KHPN

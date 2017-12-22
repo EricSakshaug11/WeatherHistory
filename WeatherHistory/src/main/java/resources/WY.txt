@@ -1,0 +1,36 @@
+Afton WY:KAFO
+Alpine:K46U
+Big Piney - Marbleton Airport:KBPI
+Boysen:KTBX
+Buffalo - Johnson County Airport:KBYG
+Casper, Natrona County International Airport:KCPR
+Cheyenne, Cheyenne Airport:KCYS
+Cody:KCOD
+Cowley WY:KU68
+Dixon Airport:KDWX
+Douglas, Converse County Airport:KDGW
+Dubois Municipal Airport:KDUB
+Elk Mountain AWOS:KEHY
+Evanston, Evanston-Uinta County Burns Field:KEVW
+Fort Bridger WY:KFBR
+Gillette, Gillette-Campbell County Airport:KGCC
+Hot Springs County Airport:KHSG
+Hulett Municipal Airport:KW43
+Jackson, Jackson Hole Airport:KJAC
+KEMMERER:KEMM
+Lander:KLND
+Laramie Regional Airport:KLAR
+Mondell Field:KECS
+Pine Bluffs Municipal Airport:K82V
+Pinedale, Ralph Wenz Field Airport:KPNA
+Powell Municipal Airport:KPOY
+Rawlins Municipal Airport:KRWL
+Riverton Regional Airport:KRIW
+Rock Springs, Rock Springs-Sweetwater County Airport:KRKS
+Saratoga WY:KSAA
+Sheridan County Airport:KSHR
+South Big Horn County Airport:KGEY
+South Pass:KFWZ
+Torrington Municipal Airport:KTOR
+Worland, Worland Municipal Airport:KWRL
+Yellowstone Lake:KP60

@@ -1,0 +1,69 @@
+Appleton-Outagamie:KATW
+Baraboo Wisconsin Dells Airport:KDLL
+Black River Falls Area Airport:KBCK
+Boscobel, Boscobel Airport:KOVS
+Burlington Municipal Airport:KBUU
+Chetek Municipal Southworth Airport:KY23
+Chippewa Valley Regional Airport:KEAU
+Clintonville Municipal Airport:KCLI
+Cumberland:KUBE
+Door County Cherryland Airport:KSUE
+Eagle River Union Airport:KEGV
+Ephraim-Gibraltar Airport:K3D2
+Fond Du Lac County Airport:KFLD
+Green Bay, Austin Straubel International Airport:KGRB
+Iowa County Airport:KMRJ
+Janesville-Rock County:KJVL
+John F Kennedy Memorial Airport:KASX
+Juneau, Dodge County Airport:KUNU
+Kenosha, Kenosha Regional Airport:KENW
+L O Simenstad Municipal Airport:KOEO
+La Crosse - La Crosse Regional Airport:KLSE
+Ladysmith - Rusk County Airport:KRCX
+Land O' Lakes, Kings Land O' Lakes Airport:KLNL
+Langlade County Airport:KAIG
+Lone Rock Tri-County Regional Airport:KLNR
+Madison, Dane County Regional-Truax Field:KMSN
+Manitowish Waters Airport:KD25
+Manitowoc, Manitowoc County Airport:KMTW
+Marshfield, Marshfield Municipal Airport:KMFI
+Menomonie Municipal Airport-Score Field:KLUM
+Merrill, Merrill Municipal Airport:KRRL
+Middleton Muni - Morey Field:KC29
+Milwaukee, General Mitchell International Airport:KMKE
+Milwaukee-Timmerman:KMWC
+Minocqua/Woodruff, Lakeland Airport/Noble F. Lee Memorial Field:KARV
+Monroe Municipal Airport:KEFT
+Mosinee:KCWA
+New Lisbon Mauston Airport:K82C
+New Richmond Municipal Airport:KRNH
+Oconto J. Douglas Bake Memorial Airport:KOCQ
+Phillips / Price County:KPBH
+Platteville Municipal Airport:KPVB
+Prairie Du Chien Municipal Airport:KPDC
+Racine, Batten International Airport:KRAC
+Red Wing - Red Wing Regional Airport:KRGK
+Reedsburg Municipal Airport:KC35
+Rhinelander, Rhinelander-Oneida County Airport:KRHI
+Rice Lake, Rice Lake Regional-Carl's Field Airport:KRPD
+Richard I. Bong Airport:KSUW
+Sawyer County Airport:KHYR
+Shawano Municipal Airport:KEZS
+Sheboygan County Memorial Airport:KSBM
+Siren, Burnett County Airport:KRZN
+Solon Springs Municipal Airport:KOLG
+Sparta, Sparta / Fort McCoy Airport:KCMY
+Stevens Point Municipal Airport:KSTE
+Taylor County Airport:KMDZ
+Tomahawk Regional Airport:KTKV
+Viroqua Municipal Airport:KY51
+Volk / Camp Douglas:KVOK
+Washington Island:K2P2
+Watertown:KRYV
+Waukesha County Airport:KUES
+Waupaca Municipal Airport:KPCZ
+Wausau Downtown Airport:KAUW
+Wautoma, Wautoma Municipal Airport:KY50
+West Bend Municipal Airport:KETB
+Wisconsin Rapids, Alexander Field South Wood County Airport:KISW
+Wittman Regional Airport:KOSH

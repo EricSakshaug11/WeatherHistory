@@ -1,0 +1,65 @@
+Abingdon:KVJI
+Ashland, Hanover County Municipal Airport:KOFP
+Brookneal/Campbell County Aiport:K0V4
+Charlottesville-Albemarle Airport:KCHO
+Chase City Municipal Airport:KCXE
+Chesapeake, Chesapeake Municipal Airport:KCPK
+Clarksville / Marks:KW63
+Crewe Municipal Airport:KW81
+Culpeper, Culpeper County Airport:KCJR
+Danville, Danville Regional Airport:KDAN
+Dublin / New River Valley:KPSK
+Eagles Nest Airport:KW13
+Emporia, Emporia-Greensville Regional Airport:KEMV
+Farmville:KFVX
+Fentress, Naval Auxiliary Landing Field:KNFE
+Fort Belvoir:KDAA
+Fort Eustis / Felker:KFAF
+Franklin / J B Rose:KFKN
+Fredericksburg, Shannon Airport:KEZF
+Front Royal-warren County Airport:KFRR
+Gordonsville Municipal Airport:KGVE
+Hillsville:KHLX
+Hot Springs / Ingalls:KHSP
+Lake Anna Airport:K7W4
+Langley Air Force Base:KLFI
+Lawrenceville/Brunswick Municipal Airport:KLVL
+Lee County Airport:K0VG
+Leesburg / Godfrey:KJYO
+Louisa, Louisa County Airport/Freeman Field:KLKU
+Lunenburg County Airport:KW31
+Luray Caverns:KLUA
+Lynchburg, Lynchburg Regional Airport:KLYH
+Manassas, Manassas Regional Airport/Harry P. Davis Field:KHEF
+Marion / Wytheville:KMKJ
+Martinsville:KMTV
+Melfa / Accomack Airport:KMFV
+New Kent County:KW96
+New Market Airport:K8W2
+Newport News, Newport News / Williamsburg International Airport:KPHF
+Norfolk Hampton Roads Executive Airport:KPVG
+Norfolk, Naval Air Station:KNGU
+Norfolk, Norfolk International Airport:KORF
+Orange, Orange County Airport:KOMH
+Petersburg, Dinwiddie County Airport:KPTB
+Quantico Marine Corps Airfield - Turner Field:KNYG
+Richmond, Richmond International Airport:KRIC
+Roanoke, Roanoke Regional Airport:KROA
+Saluda Hummel Field:KW75
+South Hill, Mecklenburg-Brunswick Regional Airport:KAVC
+Stafford, Stafford Regional Airport:KRMN
+Staunton / Shenandoah:KSHD
+Suffolk, Suffolk Municipal Airport:KSFQ
+Tazewell County Airport:KJFZ
+Virginia Beach, Oceana, Naval Air Station:KNTU
+Virginia Tech Airport:KBCB
+Wakefield Municipal Airport:KAKQ
+Wallops Flight Facility Airport:KWAL
+Warrenton-Fauquier Airport:KHWY
+Washington/Dulles International Airport, DC:KIAD
+Washington/Reagan National Airport, DC:KDCA
+West Point, Middle Peninsula Regional Airport:KFYJ
+William M Tuck Airport:KW78
+Williamsburg-Jamestown Airport:KJGG
+Winchester Regional:KOKV
+Wise / Lonesome Pine:KLNP

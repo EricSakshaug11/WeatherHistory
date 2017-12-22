@@ -1,0 +1,42 @@
+Arlington Municipal Airport:KAWO
+Bellingham, Bellingham International Airport:KBLI
+Boeing Field - King County International Airport:KBFI
+Bremerton, Bremerton National Airport:KPWT
+Burlington/Mount Vernon, Skagit Regional Airport:KBVS
+Chehalis-Centralia Airport:KCLS
+Deer Park, Deer Park Airport:KDEW
+Eastsound, Orcas Island Airport:KORS
+Ellensburg, Ellensburg Bowers Field:KELN
+Ephrata, Ephrata Municipal Airport:KEPH
+Everett Snohomish County:KPAE
+Fairchild Air Force Base:KSKA
+Fort Lewis / Gray U. S. Army Airfield:KGRF
+Friday Harbor Airport:KFHR
+Grant County Airport:KMWH
+Hoquiam, Bowerman Airport:KHQM
+Olympia, Olympia Airport:KOLM
+Omak Airport:KOMK
+Pearson Airfield:KVUO
+Pierce County-Thun Field:KPLU
+Port Angeles Coast Guard Air Station:KNOW
+Port Angeles Fairchild International Airport:KCLM
+Port Townsend Jefferson County International Airport:K0S9
+Pullman / Moscow Regional Airport:KPUW
+Quillayute, Quillayute State Airport:KUIL
+Renton Municipal Airport:KRNT
+Richland Airport:KRLD
+Seattle, Seattle-Tacoma International Airport:KSEA
+Shelton, Shelton Sanderson Field:KSHN
+Southwest Washington Regional Airport:KKLS
+Spokane, Felts Field:KSFF
+Spokane, Spokane International Airport:KGEG
+Stampede Pass:KSMP
+Sunnyside Municipal Airport:K1S5
+Tacoma / McChord Air Force Base:KTCM
+Tacoma, Tacoma Narrows Airport:KTIW
+The Dalles Municipal Airport:KDLS
+Tri-Cities Airport:KPSC
+Walla Walla Regional Airport:KALW
+Wenatchee - Pangborn Memorial Airport:KEAT
+Whidbey Island Naval Air Station - Ault Field:KNUW
+Yakima Air Terminal - McAllister Field:KYKM

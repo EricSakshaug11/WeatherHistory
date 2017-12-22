@@ -1,0 +1,6 @@
+Block Island State Airport:KBID
+N. Kingston / Quonset:KOQU
+Newport, Newport State Airport:KUUU
+Pawtucket, North Central State Airport:KSFZ
+Providence, Theodore Francis Green State Airport:KPVD
+Westerly, Westerly State Airport:KWST

@@ -1,0 +1,191 @@
+Abilene, Abilene Regional Airport:KABI
+Abilene, Dyess Air Force Base:KDYS
+Alaminos Canyon 25/H-D (ExxonMobil):KHHV
+Alice, Alice International Airport:KALI
+Alpine, Alpine-Casparis Municipal Airport:KE38
+Amarillo, Amarillo International Airport:KAMA
+Andrews County Airport:KE11
+Angleton / Lake Jackson, Brazoria County Airport:KLBX
+Arlington Municipal Airport:KGKY
+Athens Municipal Airport:KF44
+Austin City, Austin Camp Mabry:KATT
+Austin Executive Airport:KEDC
+Austin-Bergstrom International Airport:KAUS
+Bay City, Bay City Municipal Airport:KBYY
+Beaumont Municipal Airport:KBMT
+Beaumont/Port Arthur Southeast Texas Regional Airport:KBPT
+Beeville Municipal Airport:KBEA
+Big Spring, Big Spring McMahon-Wrinkle Airport:KBPG
+Borger, Hutchinson County Airport:KBGD
+Bowie Municipal Airport:K0F2
+BRAZOS 133 OIL PLATFORM:KBBF
+BRAZOS 451 OIL PLATFORM:KBQX
+Brenham, Brenham Municipal Airport:K11R
+Bridgeport, Bridgeport Municipal Airport:KXBP
+Brownsville, Brownsville / South Padre Island International Airport:KBRO
+Brownwood, Brownwood Regional Airport:KBWD
+Bryan Coulter Field:KCFD
+Burnet, Burnet Municipal Craddock Field:KBMQ
+Caldwell, Caldwell Municipal Airport:KRWV
+Cameron (Milam Co) Municipal Airpark:KT35
+Canadian, Hemphill County Airport:KHHF
+Carrizo Springs Dimmit County Airport:KCZT
+Castroville Municipal Airport:KCVB
+Center Municipal Airport:KF17
+Childress, Childress Municipal Airport:KCDS
+Cleburne, Cleburne Municipal Airport:KCPT
+Cleveland:K6R3
+COLEMAN:KCOM
+College Station, Easterwood Field:KCLL
+Comanche, Comanche County-City Airport:KMKN
+Conroe, Montgomery County Airport:KCXO
+Corpus Christi, Corpus Christi International Airport:KCRP
+Corpus Christi, Corpus Christi Naval Air Station/Truax Field:KNGP
+Corsicana, Campbell Field-Corsicana Municipal Airport:KCRS
+Cotulla, Cotulla-La Salle County Airport:KCOT
+Crockett, Houston County Airport:KDKR
+Dalhart, Dalhart Municipal Airport:KDHT
+Dallas / Addison Airport:KADS
+Dallas Love Field:KDAL
+Dallas, Redbird Airport:KRBD
+Dallas/Fort Worth International Airport:KDFW
+Decatur, Decatur Municipal Airport:KLUD
+Del Rio, Del Rio International Airport:KDRT
+Denton Enterprise Airport:KDTO
+Dryden - Terrell County Airport:K6R6
+Dumas, Moore County Airport:KDUX
+E BREAKS OIL PLATFORM:KEMK
+Eagle Lake:KELA
+East Breaks 643/Boomvang Spar:KVAF
+Eastland Municipal Airport:KETN
+Edinburg, Edinburg International Airport:KEBG
+El Paso, El Paso International Airport:KELP
+Faith Ranch Airport:KFTN
+Falfurrias, Brooks County Airport:KBKS
+Fort Hood, Hood AAF Ft Hood:KHLR
+Fort Hood, Robert Gray AAF Ft Hood:KGRK
+Fort Stockton, Fort Stockton-Pecos County Airport:KFST
+Fort Worth, Fort Worth Alliance Airport:KAFW
+Fort Worth, Forth Worth Spinks Airport:KFWS
+Fort Worth, Meacham International Airport:KFTW
+Fort Worth, Naval Air Station:KNFW
+Fredericksburg, Gillespie County Airport:KT82
+Gainesville, Gainesville Municipal Airport:KGLE
+Galveston, Scholes Field:KGLS
+Gatesville, City-County Airport:KGOP
+Georgetown, Georgetown Municipal Airport:KGTU
+Giddings, Giddings-Lee County Airport:KGYB
+Gilmer, Fox Stephens Field - Gilmer Municipal Airport:KJXI
+Gonzales Roger M. Dreyer Memorial:KT20
+Graham, Graham Municipal Airport:KRPH
+Granbury, Granbury Municipal Airport:KGDJ
+Grand Prairie, Grand Prairie Municipal Airport:KGPM
+Greenville / Majors:KGVT
+Gregory M Simmons Memorial Airport:KGZN
+GUNNISON OIL PLATFORM:KGUL
+H ISLAND376 OIL PLATFORM:KHQI
+Hamilton Municipal Airport:KMNZ
+Harlingen, Rio Grande Valley International Airport:KHRL
+Hearne, Hearne Municipal Airport:KLHB
+Hebbronville, Jim Hogg County Airport:KHBV
+Hereford Municipal Airport:KHRX
+Hillsboro, Hillsboro Municipal Airport:KINJ
+Hondo, Hondo Municipal Airport:KHDO
+Horseshoe Bay Resort Airpark:KDZB
+Houston / Ellington:KEFD
+Houston Executive Airport:KTME
+Houston Intercontinental Airport:KIAH
+Houston Southwest Airport:KAXH
+Houston, Hooks Memorial Airport:KDWH
+Houston, Houston Hobby Airport:KHOU
+Houston, Pearland Regional Airport:KLVJ
+Houston, Sugar Land Municipal / Hull Field Airport:KSGR
+Huntsville, Huntsville Municipal Airport:KUTS
+Jacksonville, Cherokee County Airport:KJSO
+Jasper, Jasper County-Bell Field Airport:KJAS
+John Dunn Helistop:KMCJ
+Jones Field - Bonham:KF00
+Junction, Kimble County Airport:KJCT
+Kelly Air Force Base:KSKF
+Kerrville, Kerrville Municipal Airport/Louis Schreiner Field:KERV
+Kickapoo Downtown Airport:KCWC
+Killeen, Skylark Field Airport:KILE
+Kingsville, Naval Air Station:KNQI
+Kleberg County Airport:KIKG
+La Grange, Fayette Regional Air Center Airport:K3T5
+Lago Vista TX, Rusty Allen Airport:KRYW
+Lampasas, Lampasas Airport:KLZZ
+Lancaster Airport:KLNC
+Laredo, Laredo International Airport:KLRD
+Laughlin Air Force Base Auxiliary Airfield:KDLF
+Llano, Llano Municipal Airport:KAQO
+Longview - East Texas Regional Airport:KGGG
+Lubbock, Lubbock International Airport:KLBB
+Lufkin, Angelina County Airport:KLFK
+Marfa:KMRF
+Marshall:KASL
+Maverick County Memorial International Airport:K5T9
+McAllen, Miller International Airport:KMFE
+McKinney - McKinney National Airport:KTKI
+Mesa Vista Ranch AP:KBPC
+Mesquite, Mesquite Metro Airport:KHQZ
+Mexia Limestone County Airport:KLXY
+Midland, Midland Airpark:KMDD
+Midland, Midland International Airport:KMAF
+Midlothian/Waxahachie, Mid-Way Regional Airport:KJWY
+Mineola/Quitman, Wood County Airport:KJDD
+Mineral Wells, Mineral Wells Airport:KMWL
+Mount Pleasant, Mount Pleasant Regional Airport:KOSA
+MUSTANG A85A OIL PLATFORM:KMZG
+Nacogdoches, A L Mangham Jr. Regional Airport:KOCH
+New Braunfels, New Braunfels Municipal Airport:KBAZ
+Odessa, Odessa-Schlemeyer Field:KODO
+Orange Grove NALF:KNOG
+Orange, Orange County Airport:KORG
+Ozona Municipal Airport:KOZA
+Palacios Municipal Airport:KPSX
+Palestine, Palestine Municipal Airport:KPSN
+Pampa, Perry Lefors Field Airport:KPPA
+Paris / Cox Field:KPRX
+Pecos, Pecos Municipal Airport:KPEQ
+Perryton, Perryton Ochiltree County Airport:KPYX
+Pine Springs, Guadalupe Mountains National Park:KGDP
+Plainview, Hale County Airport:KPVW
+Pleasanton Municipal Airport:KPEZ
+Port Isabel, Port Isabel-Cameron County Airport:KPIL
+Port Lavaca - Calhoun County Airport:KPKV
+Presidio Lely International Airport:KPRS
+Randolph Air Force Base:KRND
+Ranger:K6P9
+Robert R Wells Jr Airport:K66R
+Robstown, Nueces County Airport:KRBO
+Rockport Aransas County Airport:KRKP
+Rockwall Municipal Airport:KF46
+Rusk County Airport:KRFI
+San Angelo, Mathis Field:KSJT
+San Antonio Boerne Stage Field:K5C1
+San Antonio, San Antonio International Airport:KSAT
+San Antonio, Stinson Municipal Airport:KSSF
+San Marcos, San Marcos Municipal Airport:KHYI
+Seminole, Gaines County Airport:KGNC
+Sherman/Denison, Grayson County Airport:KGYI
+Snyder, Winston Field Airport:KSNK
+Sonora, Sonora Municipal Airport:KSOA
+Stephens County Airport:KBKD
+Stephenville, Clark Field Municipal Airport:KSEP
+Sulphur Springs, Sulphur Springs Municipal Airport:KSLR
+Sweetwater, Avenger Field Airport:KSWW
+Temple, Draughon-Miller Central Texas Regional Airport:KTPL
+Terrell, Terrell Municipal Airport:KTRL
+Tyler, Tyler Pounds Field:KTYR
+Uvalde, Garner Field Airport:KUVA
+Vernon, Wilbarger County Airport:KF05
+Victoria, Victoria Regional Airport:KVCT
+Waco, Mc Gregor Executive Airport:KPWG
+Waco, Waco Regional Airport:KACT
+Waco-James Connally Airport:KCNW
+Weslaco, Mid Valley Airport:KT65
+Wharton, Wharton Regional Airport:KARM
+Wichita Falls, Sheppard Air Force Base:KSPS
+Wink, Winkler County Airport:KINK
+Zapata, TX:KAPY

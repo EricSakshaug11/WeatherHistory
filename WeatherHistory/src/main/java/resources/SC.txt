@@ -1,0 +1,45 @@
+Aiken Municipal Airport:KAIK
+Allendale County Airport:KAQX
+Anderson, Anderson County Airport:KAND
+Barnwell Regional Airport:KBNL
+Beaufort County Airport:KARW
+Beaufort, Marine Corps Air Station:KNBC
+Camden Woodward Field:KCDN
+Charleston Executive Airport:KJZI
+Charleston, Charleston Air Force Base:KCHS
+Cheraw Municipal Lynch Bellinger Field:KCQW
+Chester Catawba Regional Airport:KDCM
+Clemson, Clemson-Oconee County Airport:KCEU
+Columbia - Jim Hamilton L.B. Owens Airport:KCUB
+Columbia, Columbia Metropolitan Airport:KCAE
+Conway Horry County Airport:KHYW
+Darlington, Darlington County Jetport Airport:KUDG
+Florence - Florence Regional Airport:KFLO
+Georgetown County Airport:KGGE
+Greenville, Greenville Downtown Airport:KGMU
+Greenville-Donaldson Center Airport:KGYH
+Greenwood, Greenwood County Airport:KGRD
+Greer, Greenville-Spartanburg Airport:KGSP
+Hartsville Regional Airport:KHVS
+Hilton Head Island, Hilton Head Airport:KHXD
+Kingstree Williamsburg Regional Airport:KCKI
+Lancaster County-mc Whirter Field:KLKR
+Laurens County Airport:KLUX
+Manning / Cooper Regional:KMNI
+Marion County Airport:KMAO
+Marlboro County Jetport:KBBP
+McEntire Air National Guard Weather Facility Base:KMMT
+Moncks Corner Berkeley County:KMKS
+Mount Pleasant Regional-Faison Field:KLRO
+Myrtle Beach Air Force Base:KMYR
+Newberry County Airport:KEOE
+North Myrtle Beach Grand Strand Airport:KCRE
+Orangeburg, Orangeburg Municipal Airport:KOGB
+Pickens County Airport:KLQK
+Rock Hill, Rock Hill - York County Airport:KUZA
+Shaw Air Force Base:KSSC
+Spartanburg Memorial:KSPA
+Summerville Airport:KDYB
+Sumter Airport:KSMS
+Walterboro Lowcountry Regional Airport:KRBW
+Winnsboro/Fairfield County Airport:KFDW
