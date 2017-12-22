@@ -11,11 +11,6 @@
             <artifactId>mysql-socket-factory</artifactId>
             <version>1.0.4</version>
         </dependency>
-        <dependency>
-            <groupId>com.google.appengine.archetypes</groupId>
-            <artifactId>appengine-skeleton-archetype</artifactId>
-            <version>3.0.1</version>
-        </dependency>
     </dependencies>
     <build>
       <plugins>
@@ -28,6 +23,11 @@
           <groupId>org.eclipse.jetty</groupId>
           <artifactId>jetty-maven-plugin</artifactId>
           <version>9.3.7.v20160115</version>
+        </plugin>
+        <plugin>
+            <groupId>com.google.appengine.archetypes</groupId>
+            <artifactId>appengine-skeleton-archetype</artifactId>
+            <version>3.0.1</version>
         </plugin>
       </plugins>
     </build>
