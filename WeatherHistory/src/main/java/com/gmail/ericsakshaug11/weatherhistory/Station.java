@@ -47,9 +47,10 @@ public class Station {
     }
     
     public void update(){
+      System.out.println("Updating: " + location);
         TextWebAccessor access = new TextWebAccessor(url);
         //System.out.println(url);
-        Scanner scanner = new Scanner(access.getStream());
+        Scanner scanner = new Scanner(access.getStream());        
         while(scanner.hasNextLine()){
             currReading += scanner.nextLine() + " ";
         }
@@ -62,8 +63,7 @@ public class Station {
         currHuman = HumanTranslator.translate(currReading);
         currComputer = HumanTranslator.computerTranslate(currReading);
         currComputerArray = HumanTranslator.arrayComputerTranslate(currReading, callsign).clone();
-        //System.out.println(location + " has been updated");
-        //System.out.println(currComputer);
+        //System.out.println("test2");
     }
     
     public String getHumanReadable(){

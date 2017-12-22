@@ -21,8 +21,9 @@ public class SQLTester {
    * @param args the command line arguments
    */
   public static void main(String[] args) {
-    SQLManager sQLManager = SQLManager.getSQLManager();
+    SQLManager sQLManager = SQLManager.getSQLManager();    
     LinkedList<Station> stations = sQLManager.createStations();
+    //sQLManager.createTables();
     ScheduledExecutorService ses = Executors.newSingleThreadScheduledExecutor();
     ses.scheduleAtFixedRate(new Runnable(){
       @Override
@@ -37,18 +38,6 @@ public class SQLTester {
         System.out.println("All data inserted, waiting for timer...");
       }
     },0,1,TimeUnit.HOURS);
-  }
-  
-  public static void setupDB(){
-    StationFileManager test = new StationFileManager();
-    LinkedList<String> stationList = test.getStationList();
-    LinkedList<Station> stations = new LinkedList<Station>();
-    //TextWebAccessor access = new TextWebAccessor("http://w1.weather.gov/data/METAR/KROC.1.txt");
-    Iterator iterate = stationList.iterator();
-    while (iterate.hasNext()) {
-      String temp = (String) iterate.next();
-      stations.add(new Station(temp));
-    }
   }
   
 }

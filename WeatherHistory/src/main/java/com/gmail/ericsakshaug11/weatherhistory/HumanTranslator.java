@@ -68,24 +68,25 @@ public class HumanTranslator {
     
     public static String[] arrayComputerTranslate(String newToTranslate, String station){
       toTranslate = newToTranslate;
-      String[] toReturn = new String[11];
-      toReturn[0] = station;
-      toReturn[1] = getTimeOfDay();
-      toReturn[2] = getYear() + "/" + getMonth() + "/" + getDay();
-      toReturn[3] = new Integer(getWindDirectionDegrees()).toString();
-      toReturn[4] = getWindDirectionCardinal();
-      toReturn[5] = getWindSpeed();
-      toReturn[6] = getVisibility();
-      toReturn[7] = getTemperature();
-      toReturn[8] = getDewpoint();
+      String[] toReturn = new String[12];
+      toReturn[0] = station + getTimeOfDay() + getDate();
+      toReturn[1] = station;
+      toReturn[2] = getTimeOfDay();
+      toReturn[3] = getDate();
+      toReturn[4] = new Integer(getWindDirectionDegrees()).toString();
+      toReturn[5] = getWindDirectionCardinal();
+      toReturn[6] = getWindSpeed();
+      toReturn[7] = getVisibility();
+      toReturn[8] = getTemperature();
+      toReturn[9] = getDewpoint();
       String cloudHolder[][] = getClouds();
-      toReturn[9] = new String();
-      for(int i = 0 ; i < cloudHolder[0].length ; i++){
-          toReturn[9] = toReturn[9] + cloudHolder[0][i] + " at " + cloudHolder[1][i] + ", ";
-      }
       toReturn[10] = new String();
+      for(int i = 0 ; i < cloudHolder[0].length ; i++){
+          toReturn[10] = toReturn[10] + cloudHolder[0][i] + " at " + cloudHolder[1][i] + ", ";
+      }
+      toReturn[11] = new String();
       if(getAtmosphericConditions() != null){
-        toReturn[10] = toReturn[10] + getAtmosphericConditions() + ", ";
+        toReturn[11] = toReturn[11] + getAtmosphericConditions() + ", ";
       }
       return toReturn;
     }
@@ -157,6 +158,10 @@ public class HumanTranslator {
             toReturn = Integer.toString(utcCal.get(Calendar.YEAR));
         }
         return toReturn;
+    }
+    
+    private static String getDate(){
+      return getYear() + "/" + getMonth() + "/" + getDay();
     }
     
     private static String getWindSpeed(){

@@ -112,17 +112,17 @@ public class SQLManager {
     return toReturn;
   }
 
-  private void createDatabase(){
-    String databaseCreation = "CREATE DATABASE weather_data;";
+  public void createTables(){
     String stationTableCreation = "CREATE TABLE station_data( "
                                 + "Callsign varchar(10), "
                                 + "State char(2), "
                                 + "LocationDescription varchar(255), "
                                 + "PRIMARY KEY (Callsign) "
                                 + ");";
+    String dropWeatherData = "DROP TABLE weather_data";
     String weatherDataTableCreation = 
                                   "CREATE TABLE weather_data( "
-                                + "ID int NOT NULL AUTO_INCREMENT, "
+                                + "ID varchar(31) NOT NULL, "
                                 + "Callsign varchar(10), "
                                 + "Time char(9), "
                                 + "Date char(12), "
@@ -135,11 +135,8 @@ public class SQLManager {
                                 + "Clouds varchar(255), "
                                 + "AtmosphericConditions varchar(255), "
                                 + "PRIMARY KEY (ID));";
-    
     try{
-      //statement.addBatch(atomic);
-      statement.addBatch(databaseCreation);
-      statement.addBatch(stationTableCreation);
+      statement.addBatch(dropWeatherData);
       statement.addBatch(weatherDataTableCreation);
       executeBatch();
     }catch(Exception e){

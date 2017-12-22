@@ -20,7 +20,8 @@ public class ResourcePool {
   public static final String DATABASE_USER_NAME = "root";
   public static final String DATABASE_PASSWORD = "HowsTheWeather";
   public static final String NO_DATA_AVAILABLE = "NDA";
-  public static final String WEATHER_DATA_PREPARED_STATEMENT = "INSERT INTO weather_data (Callsign, Time, Date, WindDirectionDegrees, WindDirectionCardinal, WindSpeed, Visibility, Temperature, Dewpoint, Clouds, AtmosphericConditions) VALUES (?,?,?,?,?,?,?,?,?,?,?)";
+  public static final String WEATHER_DATA_PREPARED_STATEMENT = "INSERT INTO weather_data "
+                                                             + "VALUES (?,?,?,?,?,?,?,?,?,?,?,?)";
   public static final HashMap<Integer, String> CARDINALITY_MAP = new HashMap<>();
   public static final HashMap<String, String> COVERAGE_MAP = new HashMap<>();
   public static final HashMap<String, String> ATMOSPHERIC_CONDITION_MAP = new HashMap<>();

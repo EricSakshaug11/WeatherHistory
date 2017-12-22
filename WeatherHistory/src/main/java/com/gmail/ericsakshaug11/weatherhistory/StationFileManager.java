@@ -112,7 +112,7 @@ public class StationFileManager {
                 e.printStackTrace();
             }
         }
-        File marker = new File("src\\resources\\formatted.txt");
+        File marker = new File("src\\main\\java\\resources\\formatted.txt");
         try{
             marker.createNewFile();
         }catch(Exception e){
