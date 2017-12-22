@@ -33,9 +33,7 @@ public class SQLManager {
   private SQLManager() {
     try {
       connection = DriverManager.getConnection(jdbcUrl, ResourcePool.DATABASE_USER_NAME, ResourcePool.DATABASE_PASSWORD);
-      //connection.setAutoCommit(false);
       statement = connection.createStatement();
-      //createDatabase();
     } catch (SQLException e) {
       e.printStackTrace();
     }
@@ -70,32 +68,6 @@ public class SQLManager {
     }
   }
   
-  public void executeBatch(){
-    try{
-      statement.executeBatch();
-      //connection.commit();
-    }catch(SQLException e){
-      e.printStackTrace();
-    }
-  }
-  
-  public void addStationData(LinkedList<Station> stations){
-    Iterator<Station> iterate = stations.iterator();
-    try{
-      PreparedStatement prepare = connection.prepareStatement("INSERT INTO station_data VALUES (?,?,?)");
-      while(iterate.hasNext()){      
-        Station currStation = iterate.next();
-        prepare.setString(1, currStation.getCallsign());
-        prepare.setString(2, currStation.getState());
-        prepare.setString(3, currStation.getLocation());
-        prepare.execute();
-      }
-      //executeBatch();
-    }catch(Exception e){
-      e.printStackTrace();
-    }
-  }
-  
   public LinkedList<Station> createStations(){
     String dumpStations = "SELECT * FROM station_data;";
     LinkedList<Station> toReturn = new LinkedList<Station>();
@@ -112,7 +84,7 @@ public class SQLManager {
     return toReturn;
   }
 
-  public void createTables(){
+  /*public void createTables(){
     String stationTableCreation = "CREATE TABLE station_data( "
                                 + "Callsign varchar(10), "
                                 + "State char(2), "
@@ -138,10 +110,27 @@ public class SQLManager {
     try{
       statement.addBatch(dropWeatherData);
       statement.addBatch(weatherDataTableCreation);
-      executeBatch();
+      statement.executeBatch();
     }catch(Exception e){
       e.printStackTrace();
     }
   }
+  
+    public void addStationData(LinkedList<Station> stations){
+    Iterator<Station> iterate = stations.iterator();
+    try{
+      PreparedStatement prepare = connection.prepareStatement("INSERT INTO station_data VALUES (?,?,?)");
+      while(iterate.hasNext()){      
+        Station currStation = iterate.next();
+        prepare.setString(1, currStation.getCallsign());
+        prepare.setString(2, currStation.getState());
+        prepare.setString(3, currStation.getLocation());
+        prepare.execute();
+      }
+      //executeBatch();
+    }catch(Exception e){
+      e.printStackTrace();
+    }
+  }*/
   
 }

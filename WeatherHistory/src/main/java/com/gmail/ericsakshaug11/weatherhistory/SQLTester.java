@@ -23,7 +23,6 @@ public class SQLTester {
   public static void main(String[] args) {
     SQLManager sQLManager = SQLManager.getSQLManager();    
     LinkedList<Station> stations = sQLManager.createStations();
-    //sQLManager.createTables();
     ScheduledExecutorService ses = Executors.newSingleThreadScheduledExecutor();
     ses.scheduleAtFixedRate(new Runnable(){
       @Override
