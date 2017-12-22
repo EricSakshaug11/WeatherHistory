@@ -1,0 +1,45 @@
+Allen County Airport:KK88
+Atkinson Municipal Airport:KPTS
+Augusta Municipal Airport:K3AU
+Beech Factory Airport:KBEC
+Benton Lloyd Stearman Field:K1K1
+Chanute, Chanute Martin Johnson Airport:KCNU
+Coffeyville, Coffeyville Municipal Airport:KCFV
+Colby Shaltz Field Airport:KCBK
+Concordia, Blosser Municipal Airport:KCNK
+Dodge City, Dodge City Regional Airport:KDDC
+El Dorado Captain Jack Thomas Airport:KEQA
+Elkhart, Elkhart-Morton County Airport:KEHA
+Emporia, Emporia Municipal Airport:KEMP
+Fort Riley - Marshall AAF:KFRI
+Garden City Regional Airport:KGCK
+Goodland, Renner Field:KGLD
+Great Bend, Great Bend Municipal Airport:KGBD
+HAMILTON:K3K3
+Hays, Hays Regional Airport:KHYS
+Hill City, Hill City Municipal Airport:KHLC
+HUGOTON:KHQG
+Hutchinson, Hutchinson Municipal Airport:KHUT
+INDEPENDENCE:KIDP
+Lawrence, Lawrence Municipal Airport:KLWC
+Liberal, Liberal Municipal Airport:KLBL
+Manhattan, Manhattan Municipal Airport:KMHK
+Marysville Municipal Airport:KMYZ
+McConnell Air Force Base:KIAB
+Medicine Lodge, Medicine Lodge:KP28
+Newton, Newton City/County Airport:KEWK
+Olathe, Johnson County Executive Airport:KOJC
+Olathe, New Century Aircenter:KIXD
+Ottawa Municipal Airport:KOWI
+Parsons, Tri-City Airport:KPPF
+Pratt Municipal:KPTT
+Russell, Russell Municipal Airport:KRSL
+Salina, Salina Municipal Airport:KSLN
+ST FRANCIS:KSYF
+Stanton County Municipal Airport:KJHN
+Sublette Municipal Airport:K19S
+Topeka, Forbes Field:KFOE
+Topeka, Philip Billard Municipal Airport:KTOP
+Wichita - Wichita Dwight D. Eisenhower National Airport:KICT
+Wichita Jabara Airport:KAAO
+Winfield / Arkansas City, Strother Field:KWLD

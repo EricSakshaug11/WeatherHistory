@@ -1,0 +1,13 @@
+Berlin, Berlin Municipal Airport:KBML
+Concord Municipal Airport:KCON
+Jaffrey Airport-Silver Ranch:KAFN
+Keene, Dillant-Hopkins Airport:KEEN
+Laconia, Laconia Municipal Airport:KLCI
+Lebanon Municipal Airport:KLEB
+Manchester Airport:KMHT
+Mount Washington:KMWN
+Nashua - Boire Field Airport:KASH
+Pease Air Force Base / Portsmouth:KPSM
+Plymouth Municipal Airport:K1P1
+Rochester - Skyhaven Airport:KDAW
+Whitefield - Mount Washington Regional Airport:KHIE

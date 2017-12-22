@@ -1,0 +1,34 @@
+Batesville, Batesville Regional Airport:KBVX
+Bentonville, Bentonville Municipal Airport/Louise M Thaden Field:KVBT
+Blytheville, Blytheville Municipal Airport:KHKA
+Camden / Harrell Field:KCDH
+Clinton Memorial Airfield:KCCA
+Corning Municipal Airport:K4M9
+De Queen, J Lynn Helms Sevier County Airport:KDEQ
+Dexter B Florence Memorial Field:KADF
+Eaker Air Force Base:KBYH
+Fayetteville, Drake Field:KFYV
+Flippin, Marion County Regional Airport:KFLP
+Fort Smith Regional Airport:KFSM
+Harrison, Boone County Airport:KHRO
+Hot Springs, Memorial Field Airport:KHOT
+Jonesboro, Jonesboro Municipal Airport:KJBR
+Little Rock Air Force Base:KLRF
+Little Rock, Adams Field:KLIT
+Mena, Mena Intermountain Municipal Airport:KMEZ
+Monticello, Monticello Municipal Airport/Ellis Field:KLLQ
+Mount Ida:KMWT
+Mountain Home, Baxter County Regional Airport:KBPK
+Newport, Newport Municipal Airport:KM19
+Northwest Arkansas Regional Airport:KXNA
+Pine Bluff, Grider Field Airport:KPBF
+Rogers - Rogers Executive Airport - Carter Field:KROG
+Russelville Municipal Airport:KRUE
+Searcy Municipal Airport:KSRC
+Siloam Springs, Smith Field Airport:KSLG
+South Arkansas Regional Airport:KELD
+Springdale Municipal:KASG
+Stuttgart, Stuttgart Municipal Airport:KSGT
+Texarkana, Texarkana Regional-Webb Field:KTXK
+Walnut Ridge Regional Airport:KARG
+West Memphis, West Memphis Municipal Airport:KAWM

@@ -1,0 +1,23 @@
+Bedford, Hanscom Field:KBED
+Beverly, Beverly Municipal Airport:KBVY
+Boston, Logan International Airport:KBOS
+Chatham, Chatham Municipal Airport:KCQX
+Chicopee Falls / Westover Air Force Base:KCEF
+East Milton:KMQE
+Fitchburg, Fitchburg Municipal Airport:KFIT
+Hyannis, Barnstable Municipal-Boardman Airport:KHYA
+Lawrence Municipal Airport:KLWM
+Marshfield Airport:KGHG
+Marthas Vineyard Airport:KMVY
+Nantucket, Nantucket Memorial Airport:KACK
+New Bedford, New Bedford Regional Airport:KEWB
+North Adams Harriman-and-West Airport:KAQW
+Norwood, Norwood Memorial Airport:KOWD
+Orange Municipal Airport:KORE
+Otis Air National Guard Base:KFMH
+Pittsfield Municipal Airport:KPSF
+Plymouth, Plymouth Municipal Airport:KPYM
+Provincetown Municipal Airport:KPVC
+Taunton, Taunton Municipal Airport:KTAN
+Westfield, Barnes Municipal Airport:KBAF
+Worcester, Worcester Regional Airport:KORH

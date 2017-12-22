@@ -1,0 +1,133 @@
+Adak Island, Adak Airport:PADK
+Akun Airport:PAUT
+Ambler, Ambler Airport:PAFM
+Anaktuvuk Pass, Anaktuvuk Pass Airport:PAKP
+Anchorage, Elmendorf Air Force Base:PAED
+Anchorage, Lake Hood Seaplane Base:PALH
+Anchorage, Merrill Field Airport:PAMR
+Anchorage, Ted Stevens Anchorage International Airport:PANC
+Angoon:PAGN
+Aniak, Aniak Airport:PANI
+Annette Island Airport:PANT
+Arctic Village, Arctic Village Airport:PARC
+Atka, Atka Airport:PAAK
+Atqasuk:PATQ
+Barrow, Wiley Post-Will Rogers Memorial Airport:PABR
+Barter Island, Barter Island LRRS Airport:PABA
+Bethel, Bethel Airport:PABE
+Bettles, Bettles Airport:PABT
+Birchwood, Birchwood Airport:PABV
+Buckland, Buckland Airport:PABL
+Chignik, Chignik Airport:PAJC
+Chulitna, Chulitna Airport:PAEC
+Clarks Point Airport:PFCL
+Cold Bay, Cold Bay Airport:PACD
+Cordova, Merle K (Mudhole) Smith Airport:PACV
+Deadhorse, Alpine Airstrip:PALP
+Deadhorse, Deadhorse Airport:PASC
+Deering, Deering/New Airport:PADE
+Delta Junction/Ft Greely, Allen Army Airfield:PABI
+Dillingham, Dillingham Airport:PADL
+Eagle, Eagle Airport:PAEG
+Egegik, Egegik Airport:PAII
+Elfin Cove - Elfin Cove Seaplane Base:PAEL
+Emmonak, Emmonak Airport:PAEM
+Eureka, Skelton Airport:PAZK
+Fairbanks, Eielson Air Force Base:PAEI
+Fairbanks, Fairbanks International Airport:PAFA
+Fort Wainwright AAF:PAFB
+Fort Yukon, Fort Yukon Airport:PFYU
+Ft. Richardson / Bryant U. S. Army Heliport, Ak:PAFR
+Galena, Edward G. Pitka Sr. Airport:PAGA
+Gambell, Gambell Airport:PAGM
+Golovin, Golovin Airport:PAGL
+Gulkana, Gulkana Airport:PAGK
+Gustavus, Gustavus Airport:PAGS
+Haines - Haines Airport:PAHN
+Homer, Homer Airport:PAHO
+Hoonah - Hoonah Seaplane Base:PAOH
+Hooper Bay, Hooper Bay Airport:PAHP
+Huslia, Huslia Airport:PAHL
+Igiugig:PAIG
+Iliamna, Iliamna Airport:PAIL
+Juneau, Juneau International Airport:PAJN
+Kake - Kake Airport:PAFE
+Kalskag:PALG
+Kenai, Kenai Municipal Airport:PAEN
+Ketchikan, Ketchikan International Airport:PAKT
+Kinana / Bob Baker Me:PAIK
+King Salmon, King Salmon Airport:PAKN
+Kipnuk, Kipnuk Airport:PAKI
+Kivalina, Kivalina Airport:PAVL
+Klawock - Klawock Airport:PAKW
+Kodiak, Kodiak Airport:PADQ
+Koliganek:PAJZ
+Koyuk, Koyuk Airport:PAKK
+Kuparuk, Ugnu-Kuparuk Airport:PAKU
+Kwethluk Airport:PFKW
+Manokotak:PAMB
+Marshall:PADM
+McGrath, McGrath Airport:PAMC
+McKinley Park, McKinley National Park Airport:PAIN
+Mekoryuk, Mekoryuk Airport:PAMY
+Metlakatla, Metlakatla Seaplane Base:PAMM
+Middleton Island, Middleton Island Airport:PAMD
+Minchumina, Minchumina Airport:PAMH
+Mountain Village:PAMO
+Napakiak Airport:PANA
+Nelson Lagoon:PAOU
+Nenana Municipal Airport:PANN
+New Stuyahok:PANW
+Nikolai:PAFS
+Noatak, Noatak Airport:PAWN
+Nome, Nome Airport:PAOM
+Northway, Northway Airport:PAOR
+Nuiqsut, Nuiqsut Airport:PAQT
+Nunapitchuk Airport:PPIT
+Palmer, Palmer Municipal Airport:PAAQ
+Petersburg:PAPG
+Platinum:PAPM
+Point Hope, Point Hope Airport:PAPO
+Point Lay, Point Lay LRRS Airport:PPIZ
+Point Thomson Airstrip:PAAD
+Port Alsworth, Port Alsworth Airport:PALJ
+Port Heiden, Port Heiden Airport:PAPH
+Portage, Portage Glacier:PATO
+Puntilla:PAPT
+Quinhagak Airport:PAQH
+Ralph Wien Memorial Airport:PAOT
+Ruby:PARY
+Russian Mission:PARS
+Sand Point:PASD
+Savoonga Airport:PASA
+Scammon Bay:PACM
+Selawik:PASK
+Seldovia, Seldovia Airport:PASO
+Seward:PAWD
+Shageluk Airport:PAHX
+Shaktoolik Airport:PFSH
+Shemya, Eareckson AFB:PASY
+Shishmaref, Shishmaref Airport:PASH
+Shungnak Airport:PAGH
+Sitka - Sitka Airport:PASI
+Skagway:PAGY
+Sleetmute:PASL
+Soldotna:PASX
+South Naknek Nr 2 Airport:PFWS
+St Michael:PAMK
+St. George, St. George Airport:PAPB
+St. Mary's, St. Mary's Airport:PASM
+St. Paul Island, St. Paul Island Airport:PASN
+Talkeetna, Talkeetna Airport:PATK
+Tanana, Calhoun Memorial Airport:PATA
+Teller:PATE
+Togiac Village, Togiak Airport:PATG
+Toksook Bay:PAOO
+Unalakleet:PAUN
+Unalaska, Unalaska Airport:PADU
+Valdez 2:PAVD
+Wainwright, Wainwright Airport:PAWI
+Wales:PAIW
+Wasilla, Wasilla Airport:PAWS
+Wrangell:PAWG
+Yakutat:PAYA

@@ -1,0 +1,101 @@
+Aitkin Municipal Airport - Steve Kurtz Field:KAIT
+Albert Lea, Albert Lea Municipal Airport:KAEL
+Alexandria, Chandler Field:KAXN
+Appleton Municipal Airport:KAQP
+Austin Municipal:KAUM
+Baudette International Airport:KBDE
+Bemidji:KBJI
+Benson Municipal Airport:KBBB
+Bigfork Municipal Airport:KFOZ
+Brainerd - Crow Wing County Airport:KBRD
+Buffalo, Buffalo Municipal Airport:KCFE
+Cambridge Municipal Airport:KCBG
+Canby Airfield:KCNB
+Chisholm-Hibbing Airport:KHIB
+Cloquet Carlton County Airport:KCOQ
+Cook Municipal Airport:KCQM
+Crane Lake - Scotts Seaplane Base:KCDD
+Crookston Municipal Field:KCKN
+Detroit Lakes Airport-Wething Field:KDTL
+Dodge Center Airport:KTOB
+Downtown Holman Field:KSTP
+Duluth - Sky Harbor Airport:KDYT
+Duluth International Airport:KDLH
+Elbow Lake Municipal Airport:KY63
+Ely, Ely Municipal Airport:KELO
+Eveleth-Virginia Municipal Airport:KEVM
+Fairmont, Fairmont Municipal Airport:KFRM
+Falls International Airport:KINL
+Faribault, Faribault Municipal Airport:KFBL
+Fergus Falls Municipal Airport-Einar Mickel:KFFM
+Flag Island:KFGN
+Fosston, Fosston Municipal Airport:KFSE
+Glencoe Municipal Airport:KGYL
+Glenwood Municipal Airport:KGHW
+Grand Marais, The Bay of Grand Marais:KGNA
+Grand Marais/Cook County Airport:KCKC
+Grand Rapids, Grand Rapids/Itasca County Airport-Gordon Newstrom Field:KGPZ
+Granite Falls, Granite Falls Municipal Airport/Lenzen-Roe Memorial Field:KGDB
+Hallock Municipal Airport:KHCO
+Hinckley Field of Dreams Airport:K04W
+Hutchinson, Hutchinson Municipal Airport-Butler Field:KHCD
+Jackson, Jackson Municipal Airport:KMJQ
+Lake Elmo Airport:K21D
+Litchfield Municipal Airport:KLJF
+Little Falls, Little Falls/Morrison County Airport-Lindbergh Field:KLXL
+Longville, Longville Municipal Airport:KXVG
+Madison, Madison-Lac Qui Parle County Airport:KDXX
+Mahnomen County Airport:K3N8
+Mankato, Mankato Regional Airport:KMKT
+Maple Lake, Maple Lake Municipal Airport:KMGG
+Marshall, Southwest Minnesota Regional Airport - Marshall/Ryan Field:KMML
+Mc Gregor - Isedor Iverson Airport:KHZX
+Minneapolis - Flying Cloud Airport:KFCM
+Minneapolis / Blaine:KANE
+Minneapolis, Airlake Airport:KLVN
+Minneapolis, Crystal Airport:KMIC
+Minneapolis, Minneapolis-St. Paul International Airport:KMSP
+Montevideo-Chippewa County Airport:KMVE
+Moorhead Municipal Airport:KJKJ
+Moose Lake Carlton County Airport:KMZH
+Mora Municipal Airport:KJMR
+Morris, Morris Municipal Airport:KMOX
+New Ulm Municipal Airport:KULM
+Olivia Regional Airport:KOVL
+Orr Regional Airport:KORB
+Ortonville, Ortonville Muncipal-Martinson Field Airport:KVVV
+Owatonna Degner Regional Airport:KOWA
+Park Rapids Municipal Airport:KPKD
+Paynesville, Paynesville Municipal Airport:KPEX
+Pine River Regional Airport:KPWC
+Pipestone Municipal Airport:KPQN
+Preston, Fillmore County Airport:KFKA
+Princeton:KPNM
+Quentin Aanenson Field Airport:KLYV
+Redwood Falls Municipal Airport:KRWF
+Rochester - St. Mary's Hospital Heliport:K9MN
+Rochester, Rochester International Airport:KRST
+Roseau, Roseau Municipal Airport/Rudy Billberg Field:KROX
+Rush City Regional Airport:KROS
+Sauk Centre Municipal Airport:KD39
+Silver Bay:KBFW
+Slayton Municipal Airport:KDVP
+South St. Paul Municipal-Richard E. Flemi:KSGS
+St. Cloud Regional Airport:KSTC
+St. James Municipal Airport:KJYG
+Stanton Airfield:KSYN
+Staples, Staples Municipal Airport:KSAZ
+Thief River Falls, Thief River Falls Regional Airport:KTVF
+Todd Field Airport:K14Y
+Tracy, Tracy Municipal Airport:KTKC
+Two Harbors:KTWM
+Wadena Municipal Airport:KADC
+Walker Municipal Airport:KY49
+Warroad International Memorial Airport:KRRT
+Waseca Municipal Airport:KACQ
+Waskish Municipal Airport:KVWU
+Wheaton Municipal Airport:KETH
+Willmar Municipal Airport - John L. Rice Field:KBDH
+Windom Municipal Airport:KMWM
+Winona, Winona Municipal Airport-Max Conrad Field:KONA
+Worthington, Worthington Municipal Airport:KOTG

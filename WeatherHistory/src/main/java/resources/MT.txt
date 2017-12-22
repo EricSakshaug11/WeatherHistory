@@ -1,0 +1,25 @@
+Baker, Baker Municipal Airport:KBHK
+Billings, Billings Logan International Airport:KBIL
+Bozeman, Gallatin Field:KBZN
+Butte, Bert Mooney Airport:KBTM
+Cut Bank, Cut Bank Municipal Airport:KCTB
+Dillon, Dillon Airport:KDLN
+Ennis - Big Sky Airport:KEKS
+Glasgow, Glasgow International Airport:KGGW
+Glendive, Dawson Community Airport:KGDV
+Great Falls, Great Falls International Airport:KGTF
+Havre, Havre City-County Airport:KHVR
+Helena Regional Airport:KHLN
+Jordan, Jordan Airport:KJDN
+Kalispell, Glacier Park International Airport:KGPI
+Lewistown, Lewistown Municipal Airport:KLWT
+Livingston, Mission Field Airport:KLVM
+Malmstrom Air Force Base:KGFA
+Malta Airport:KM75
+Miles City, Frank Wiley Field Airport:KMLS
+Missoula, Missoula International Airport:KMSO
+Mullan Pass, Mullan Pass Vor:KMLP
+N BAR Ranch Airport:KMVH
+Sidney-Richland:KSDY
+West Yellowstone:KWYS
+Wolf Point, Clayton Airport:KOLF

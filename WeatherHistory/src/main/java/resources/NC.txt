@@ -1,0 +1,71 @@
+Ahoskie, Tri-County Airport:KASJ
+Albemarle, Stanly County Airport:KVUJ
+Andrews-Murphy Airport:KRHP
+Anson County Airport:KAFP
+Asheboro, Asheboro Municipal Airport:KHBI
+Asheville, Asheville Regional Airport:KAVL
+Beaufort Smith Field:KMRH
+Bogue Field Marine Corps Auxiliary Field:KNJM
+Brunswick County Airport:KSUT
+Burlington Alamance Regional Airport:KBUY
+Chapel Hill, Williams Airport:KIGX
+Charlotte, Charlotte / Douglas International Airport:KCLT
+Cherry Point Marine Corps Air Station:KNKT
+Concord Regional Airport:KJQF
+Currituck, Currituck County Airport:KONX
+Dare County Gunnery Range:K2DP
+Duplin County Airport:KDPL
+Edenton, Northeastern Regional Airport:KEDE
+Elizabeth City C/G Regional Airport:KECG
+Erwin, Harnett County Airport:KHRJ
+Fayetteville, Fayetteville Regional Airport:KFAY
+Fort Bragg / Simmons Army Airfield:KFBG
+Franklin County Airport:KLHZ
+Gastonia Municipal Airport:KAKH
+Goldsboro, Goldsboro-Wayne Municipal Airport:KGWW
+Greensboro, Piedmont Triad International Airport:KGSO
+Halifax-Northampton Regional Airport:KIXA
+Hatteras, Mitchell Field:KHSE
+Henderson-Oxford Airport:KHNZ
+Hickory, Hickory Regional Airport:KHKY
+Jackson County Airport:K24A
+Jacksonville, Albert J Ellis Airport:KOAJ
+Jefferson, Ashe County Airport:KGEV
+Kill Devil Hills, First Flight Airport:KFFA
+Kinston, Kinston Regional Jetport at Stallings Field:KISO
+Laurinburg Maxton Airport:KMEB
+Lexington, Davidson County Airport:KEXX
+Lincolnton, Lincolnton-Lincoln County Regional Airport:KIPJ
+Lumberton Municipal Airport:KLBT
+Mackall U. S. Army Airfield:KHFF
+Macon County Airport:K1A5
+Manteo / Dare County Regional:KMQI
+MCAS New River:KNCA
+Monroe, Monroe Airport:KEQY
+Morganton-Lenoir Airport:KMRN
+Mount Airy/Surry County Airport:KMWK
+New Bern, Craven County Regional Airport:KEWN
+North Wilkesboro, Wilkes County Airport:KUKF
+Pinehurst/Southern Pines, Moore County Airport:KSOP
+Piney Island, Bt-11 Bombing Range:KNBT
+Pitt-Greenville Airport:KPGV
+Pope Air Force Base:KPOB
+Raleigh / Durham, Raleigh-Durham International Airport:KRDU
+Reidsville, Rockingham County NC Shiloh Airport:KSIF
+Rockingham-Hamlet Airport:KRCZ
+Rocky Mount, Rocky Mount-Wilson Regional Airport:KRWI
+Rowan County Airport:KRUQ
+Roxboro, Person County Airport:KTDF
+Rutherfordton, Rutherford County-Marchman Field Airport:KFQD
+Sampson County Airport:KCTZ
+Sanford, Sanford-Lee County Regional Airport:KTTA
+Seymour-Johnson Air Force Base:KGSB
+Shelby Municipal Airport:KEHO
+Siler City Municipal Airport:KSCR
+Smithfield, Johnston County Airport:KJNX
+Statesville Municipal Airport:KSVH
+Washington, Warren Field Airport:KOCW
+Watauga County Hospital Heliport:KTNB
+Whiteville, Columbus County Municipal Airport:KCPC
+Wilmington International Airport:KILM
+Winston Salem, Smith Reynolds Airport:KINT

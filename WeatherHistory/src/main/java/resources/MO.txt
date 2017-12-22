@@ -1,0 +1,42 @@
+Branson:KBBG
+Branson West Muni - Emerson Field:KFWB
+Camdenton Memorial Airport:KOZS
+Cape Girardeau, Cape Girardeau Regional Airport:KCGI
+Chillicothe, Chillicothe Agri-Science Center:KCDJ
+Clinton, MO:KGLY
+Columbia, Columbia Regional Airport:KCOU
+Farmington Airport:KFAM
+Fort Leonard Wood:KTBN
+Hannibal Regional Airport:KHAE
+Harrisonville Lawrence Smith Memorial Airport:KLRY
+Jefferson City, Jefferson City Memorial Airport:KJEF
+Jesse Viertel Memorial Airport:KVER
+Joplin, Joplin Regional Airport:KJLN
+Kaiser Lake Ozark, Lee C Fine Memorial Airport:KAIZ
+Kansas City, Kansas City Downtown Airport:KMKC
+Kansas City, Kansas City International Airport:KMCI
+Kennett - Kennett Memorial Airport:KTKX
+Kirksville, Kirksville Regional Airport:KIRK
+LEBANON:KLBO
+Lee's Summit, Lee's Summit Municipal Airport:KLXT
+Malden Municipal Airport:KMAW
+Marshall Memorial Municipal Airport:KMHL
+Maryville Northwest Missouri Regional Airport:KEVU
+Mexico Memorial Airport:KMYJ
+MOBERLY:KMBY
+Monett:KHFJ
+Mosby Midwest National Air Center Airport:KGPH
+Poplar Bluff, Poplar Bluff Municipal Airport:KPOF
+Rolla / Vichy, Rolla National Airport:KVIH
+Sedalia, Sedalia Memorial Airport:KDMO
+Sikeston Memorial Municipal Airport:KSIK
+Skyhaven Airport:KRCM
+Springfield, Springfield Regional Airport:KSGF
+St. Charles, St. Charles County Smartt Airport:KSET
+St. Joseph, Rosecrans Memorial Airport:KSTJ
+St. Louis Lambert International Airport:KSTL
+St. Louis, Spirit Of St. Louis Airport:KSUS
+Warsaw Municipal Airport:KRAW
+Washington Regional Airport:KFYG
+West Plains, West Plains Municipal Airport:KUNO
+Whiteman Air Force Base:KSZL

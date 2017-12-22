@@ -1,0 +1,40 @@
+Anderson Municipal Airport:KAID
+Auburn De Kalb County Airport:KGWB
+Bloomington, Monroe County Airport:KBMG
+Columbus / Bakalar:KBAK
+Crawfordsville Municipal Airport:KCFJ
+Daviess County Airport:KDCY
+Elkhart Municipal:KEKM
+Evansville, Evansville Regional Airport:KEVV
+Fort Wayne International Airport:KFWA
+Frankfort Municipal Airport:KFKR
+Gary Regional Airport:KGYY
+Goshen, Goshen Municipal Airport:KGSH
+Greenwood Municipal Airport:KHFY
+Grissom Air Force Base / Peru:KGUS
+Huntingburg:KHNB
+Huntington Municipal Airport:KHHG
+INDIANAPOLIS:KTYQ
+Indianapolis International Airport:KIND
+Indianapolis Mount Comfort Airport:KMQJ
+Indianapolis, Eagle Creek Airpark:KEYE
+Kendallville Municipal Airport:KC62
+Kokomo, Kokomo Municipal Airport:KOKK
+La Porte Municipal Airport:KPPO
+Lafayette, Purdue University Airport:KLAF
+Logansport/Cass County Airport:KGGP
+Madison Municipal Airport:KIMS
+Marion Municipal Airport:KMZZ
+Michigan City Municipal Airport:KMGC
+Monticello White County Airport:KMCX
+Muncie, Delaware County-Johnson Field:KMIE
+Putnam County Regional Airport:KGPC
+Rensselaer Jasper County Airport:KRZL
+Richmond Municipal Airport:KRID
+Rochester Fulton County Airport:KRCR
+Shelbyville Municipal Airport:KGEZ
+South Bend International Airport:KSBN
+Starke County Airport:KOXI
+Terre Haute International Airport - Hulman Field:KHUF
+Valparaiso Porter County Municipal Airport:KVPZ
+Warsaw, Warsaw Municipal Airport:KASW

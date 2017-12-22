@@ -1,0 +1,38 @@
+Ak-Chin Regional Airport:KA39
+Bisbee Douglas International Airport:KDUG
+Buckeye Municipal Airport:KBXK
+Bullhead City, Laughlin/Bullhead International Airport:KIFP
+Chandler, Chandler Municipal Airport:KCHD
+Colorado City, Colorado City Municipal Airport:KAZC
+Davis-Monthan Air Force Base:KDMA
+Flagstaff Pulliam Airport:KFLG
+Fort Huachuca, Libby AAF Ft Huachuca:KFHU
+Gila Bend Air Force Auxiliary Field:KGXF
+Glendale, Glendale Municipal Airport:KGEU
+Goodyear Municipal:KGYR
+Grand Canyon National Park Airport:KGCN
+Havasu City Airport:KHII
+Kingman, Kingman Airport:KIGM
+Luke Air Force Base / Phoenix:KLUF
+Mesa / Falcon Field:KFFZ
+Nogales, Nogales International Airport:KOLS
+Page, Page Municipal Airport:KPGA
+Payson Airport:KPAN
+Phoenix, Phoenix Sky Harbor International Airport:KPHX
+Phoenix, Phoenix-Deer Valley Municipal Airport:KDVT
+Phoenix-Mesa Gateway Airport:KIWA
+Pioneer Airfield:KALK
+Prescott, Love Field:KPRC
+Safford, Safford Municipal Airport:KSAD
+Scottsdale Airport:KSDL
+Sedona Airport:KSEZ
+Show Low, Show Low Regional Airport:KSOW
+Springerville Municipal Airport:KJTC
+St. Johns, St. Johns Industrial Airpark:KSJN
+Tucson Marana Regional Airport:KAVQ
+Tucson Ryan Field Airport:KRYN
+Tucson, Tucson International Airport:KTUS
+Williams/Clark Memorial Airport:KCMR
+Window Rock, Window Rock Airport:KRQE
+Winslow, Winslow Municipal Airport:KINW
+Yuma, Marine Corps Air Station:KNYL

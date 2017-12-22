@@ -1,0 +1,40 @@
+Ainsworth Regional Airport:KANW
+Albion Municipal Airport:KBVN
+Alliance, Alliance Municipal Airport:KAIA
+Aurora, Aurora Municipal Airport:KAUH
+Beatrice Municipal:KBIE
+Blair Municipal Airport:KBTA
+Brewster Field Airport:KHDE
+Broken Bow, Broken Bow Municipal Airport:KBBW
+Chadron, Chadron Municipal Airport:KCDR
+Columbus, Columbus Municipal Airport:KOLU
+Falls City, Brenner Field Airport:KFNB
+Fremont Municipal Airport:KFET
+Gordon Municipal:KGRN
+Grand Island, Central Nebraska Regional Airport:KGRI
+Hastings, Hastings Municipal Airport:KHSI
+Hebron, Hebron Municipal Airport:KHJH
+Imperial, Imperial Municipal Airport:KIML
+Kearney, Kearney Municipal Airport:KEAR
+Kimball, Kimball Municipal Airport/Robert E Arraj Field:KIBM
+Lexington, Jim Kelly Field Airport:KLXN
+Lincoln, Lincoln Municipal Airport:KLNK
+McCook, McCook Municipal Airport:KMCK
+Nebraska City, Nebraska City Municipal Airport:KAFK
+Norfolk, Stefan Memorial Airport:KOFK
+North Platte, North Platte Regional Airport:KLBF
+O'Neill / Baker Field:KONL
+Ogallala, Searle Field Airport:KOGA
+Omaha - Eppley Airfield:KOMA
+Omaha / Offutt Air Force Base:KOFF
+Omaha, Millard Airport:KMLE
+Ord, Evelyn Sharp Field Airport:KODX
+Plattsmouth, Plattsmouth Municipal Airport:KPMV
+Scottsbluff, Heilig Field:KBFF
+Sidney, Sidney Municipal Airport:KSNY
+Tekamah, Tekamah Municipal Airport:KTQE
+Thedford, Thomas County Airport:KTIF
+Valentine, Miller Field:KVTN
+Wahoo:KAHQ
+Wayne, Wayne Municipal Airport:KLCG
+York, York Municipal Airport:KJYR

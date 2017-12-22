@@ -1,0 +1,59 @@
+Albertus Airport:KFEP
+Aurora Municipal Airport:KARR
+Belleville, Scott AFB/MidAmerica Airport:KBLV
+Bloomington/Normal, Central Illinois Regional Airport at Bloomington-Normal:KBMI
+Cairo Regional Airport:KCIR
+Carmi Municipal Airport:KCUL
+Centralia Municipal Airport:KENL
+Chicago / West Chicago, Dupage Airport:KDPA
+Chicago / Wheeling, Pal-Waukee Airport:KPWK
+Chicago, Chicago Midway Airport:KMDW
+Chicago, Chicago-O'Hare International Airport:KORD
+Chicago/Waukegan Regional Airport:KUGN
+Danville, Vermilion County Airport:KDNV
+De Kalb Taylor Municipal Airport:KDKB
+Decatur Airport:KDEC
+Edgar County Airport:KPRG
+Effingham, Effingham County Memorial Airport:K1H2
+Fairfield, Fairfield Municipal Airport:KFWC
+Flora Municipal Airport:KFOA
+Galesburg Municipal Airport:KGBG
+Greater Kankakee Airport:KIKK
+Harrisburg-Raleigh Airport:KHSB
+Illinois Valley Regional Airport:KVYS
+Jacksonville Municipal Airport:KIJX
+Joliet Regional Airport:KJOT
+Lansing Municipal Airport:KIGQ
+Lawrenceville-Vincennes International Airport:KLWV
+Lewis University Airport:KLOT
+Litchfield Municipal Airport:K3LF
+Logan County Airport:KAAA
+Macomb Municipal Airport:KMQB
+Marion - Williamson County Regional Airport:KMWA
+Marshall County Airport:KC75
+Mattoon / Charleston, Coles County Memorial Airport:KMTO
+Metropolis Municipal Airport:KM30
+Moline Quad-City Airport:KMLI
+Morris Muni-James R Washburn Field Airport:KC09
+Mount Carmel, Mount Carmel Municipal Airport:KAJG
+Mount Sterling, Mount Sterling Municipal Airport:KI63
+Mount Vernon Airport:KMVN
+Olney-Noble Airport:KOLY
+Peoria - General Downing-Peoria International Airport:KPIA
+Pittsfield, Pittsfield Penstone Municipal Airport:KPPQ
+Pontiac Municipal Airport:KPNT
+Quincy Regional Airport-Baldwin Field:KUIN
+Rantoul National Aviation Center Airport:KTIP
+Robinson Municipal Airport:KRSV
+Rochelle, Rochelle Municipal-Koritz Field Airport:KRPJ
+Rockford, Greater Rockford Airport:KRFD
+Salem, Salem-Leckrone Airport:KSLO
+Southern Illinois Airport:KMDH
+Sparta Community-Hunter Field Airport:KSAR
+Springfield - Abraham Lincoln Capital Airport:KSPI
+St. Louis Downtown Airport:KCPS
+St. Louis Regional Airport:KALN
+Sterling Rockfalls:KSQI
+Taylorville, Taylorville Municipal Airport:KTAZ
+Tri-Township Airport:KSFY
+University of Illinois - Willard:KCMI

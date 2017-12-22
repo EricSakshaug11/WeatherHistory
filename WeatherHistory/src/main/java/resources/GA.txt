@@ -1,0 +1,76 @@
+Alma, Bacon County Airport:KAMG
+Americus Souther Field Airport:KACJ
+Athens, Athens Airport:KAHN
+Atlanta Regional Airport-Falcon Field:KFFC
+Atlanta, De Kalb-Peachtree Airport:KPDK
+Atlanta, Hartsfield - Jackson Atlanta International Airport:KATL
+Augusta Daniel Field:KDNL
+Augusta, Bush Field:KAGS
+Bainbridge, Decatur County Industrial Air Park Airport:KBGE
+Barwick Lafayette Airport:K9A5
+Baxley Municipal Airport:KBHC
+Blakely, Early County Airport:KBIJ
+Brunswick / Glynco:KBQK
+Brunswick, Malcolm McKinnon Airport:KSSI
+Butler Municipal Airport:K6A1
+Calhoun Tom B. David Field Airport:KCZL
+Camilla-Mitchell County Airport:KCXU
+Canton, Cherokee County Airport:KCNI
+Carrollton West Georgia Regional Airport:KCTJ
+Cartersville Airport:KVPC
+Claxton Evans County Airport:KCWV
+Cobb County International Airport - McCollum Field:KRYY
+Columbus, Columbus Metropolitan Airport:KCSG
+Cordele Crisp County Airport:KCKF
+Cornelia Habersham County Airport:KAJR
+Covington Municipal Airport:KCVC
+Dallas Paulding County Regional Airport:KPUJ
+Dalton, Dalton Municipal Airport:KDNN
+Douglas, Douglas Municipal Airport:KDQH
+Dublin, W H 'Bud' Barron Airport:KDBN
+Eastman, Heart of Georgia Regional Airport:KEZM
+Elbert County - Patz Field:KEBA
+Fitzgerald Municipal Airport:KFZG
+Fort Benning:KLSF
+Franklin County Airport:K18A
+Fulton County Airport-Brown Field:KFTY
+Gainesville, Gilmer Memorial Airport:KGVL
+Gilmer County Airport:K49A
+Greensboro, Greene County Regional Airport:K3J7
+Griffin Spalding County Airport:K6A2
+Gwinnett County Airport-Briscoe Field:KLZU
+Hazlehurst Airport:KAZE
+Henry County Airport:KHMP
+Homerville Airport:KHOE
+Hunter U. S. Army Airfield:KSVN
+Jackson County Airport:KJCA
+Jasper Pickens County Airport:KJZP
+Jesup-Wayne County Airport:KJES
+LaGrange-Callaway Airport:KLGC
+Marietta / Dobbins Air Force Base:KMGE
+Middle Georgia Regional Airport:KMCN
+Milledgeville, Baldwin County Airport:KMLJ
+Moody Air Force Base:KVAD
+Moultrie, Moultrie Municipal Airport:KMGR
+Newnan, Newnan Coweta County Airport:KCCO
+Perry-Houston County Airport:KPXE
+Pine Mountain Harris County Airport:KPIM
+Rome, R. B. Russell Airport:KRMG
+Sandersville Kaolin Field Airport:KOKZ
+Savannah-Hilton Head International Airport:KSAV
+Southwest Georgia Regional Airport:KABY
+Statesboro, Statesboro-Bulloch County Airport:KTBR
+Swainsboro Emanuel County Airport:KSBO
+Sylvania, Plantation Airpark:KJYL
+Thomaston, Thomaston-Upson County Airport:KOPN
+Thomasville Regional Airport:KTVI
+Thomson, Thomson-McDuffie County Airport:KHQU
+Tifton Henry Tift Myers:KTMA
+Toccoa Le Tourneau Airport:KTOC
+Valdosta Regional Airport:KVLD
+Vidalia, Vidalia Municipal Airport:KVDI
+Warner Robins Air Force Base:KWRB
+Washington, Washington-Wilkes County Airport:KIIY
+Waycross / Ware County, Ga:KAYS
+Winder, Winder-Barrow Airport:KWDR
+Wright Army Airfield [Fort Stewart]/Midcoast Regional Airport:KLHW

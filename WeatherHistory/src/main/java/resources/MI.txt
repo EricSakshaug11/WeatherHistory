@@ -1,0 +1,75 @@
+Adrian, Lenawee County Airport:KADG
+Alma, Gratiot Community Airport:KAMN
+Alpena, Alpena County Regional Airport:KAPN
+Ann Arbor, Ann Arbor Municipal Airport:KARB
+Beaver Island, Beaver Island Airport:KSJX
+Bellaire, Antrim County Airport:KACB
+Big Rapids, Roben-Hood Airport:KRQB
+Branch County Memorial Airport:KOEB
+Brooks Field Airport:KRMY
+Capital Region International Airport:KLAN
+Caro, Tuscola Area Airport:KCFS
+Charlevoix, Charlevoix Municipal Airport:KCVX
+Charlotte, Fitch H Beach Airport:KFPK
+Cheboygan, Cheboygan County Airport:KSLH
+Cherry Capital Airport:KTVC
+Coleman A Young Municipal Airport:KDET
+Copper Harbor:KP59
+Detroit, Detroit Metropolitan Wayne County Airport:KDTW
+Detroit, Willow Run Airport:KYIP
+Detroit/Grosse Ile, Grosse Ile Airport:KONZ
+Drummond Island Airport:KDRM
+Escanaba:KESC
+Flint, Bishop International Airport:KFNT
+Frankfort, Frankfort Dow Memorial Field Airport:KFKS
+Fremont Municipal Airport:KFFX
+Gaylord Regional Airport:KGLR
+Grand Rapids, Gerald R. Ford International Airport:KGRR
+Grayling, Grayling Army Airfield:KGOV
+Haines Memorial Airport:KHAI
+Harbor Springs, Harbor Springs Airport:KMGN
+Hillsdale Municipal Airport:KJYM
+Holland - West Michigan Regional Airport:KBIV
+Houghton County Memorial Airport:KCMX
+Houghton Lake, Roscommon County Airport:KHTL
+Howell, Livingston County Airport:KOZW
+Huron County Memorial Airport:KBAX
+Ionia County Airport:KY70
+Iron Mountain / Kingsford, Ford Airport:KIMT
+Ironwood, Gogebic-Iron County Airport:KIWD
+Jack Barstow Airport:KIKW
+Jackson County Airport - Reynolds Field:KJXN
+Kalamazoo/Battle Creek International Airport:KAZO
+Lambertville, Toledo Suburban Airport:KDUH
+Lapeer Dupont-lapeer:KD95
+Ludington, Mason County Airport:KLDM
+Mackinac Island Airport:KMCD
+Manistee County - Blacker Airport:KMBL
+Manistique, Schoolcraft County Airport:KISQ
+Marquette, Sawyer International Airport:KSAW
+Mason, Mason Jewett Field Airport:KTEW
+MBS International Airport:KMBS
+Menominee - Marinette Twin County Airport:KMNM
+Monroe, Custer Airport:KTTF
+Mount Pleasant, Mount Pleasant Municipal Airport:KMOP
+Munising - Munising Lakeshore Observation:KP53
+Muskegon, Muskegon County Airport:KMKG
+Newberry, Luce County Airport:KERY
+Oscoda, Oscoda-Wurtsmith Airport:KOSC
+Owosso, Owosso Community Airport:KRNP
+Pellston Regional Airport of Emmet County:KPLN
+Pontiac, Oakland County International Airport:KPTK
+Port Hope:KP58
+Rogers City, Presque Isle County Airport:KPZQ
+Saginaw County H W Browne Airport:KHYX
+Sault Ste Marie, Chippewa County International Airport:KCIU
+Sault Ste. Marie:KANJ
+Selfridge Air National Guard Base:KMTC
+South Haven, South Haven Area Regional Airport:KLWA
+Southwest Michigan Regional Airport:KBEH
+St Clair County International Airport:KPHN
+Sturgis, Kirsch Municipal Airport:KIRS
+Troy, Oakland/Troy Airport:KVLL
+W K Kellogg Airport:KBTL
+West Branch Community Airport:KY31
+Wexford County Airport:KCAD

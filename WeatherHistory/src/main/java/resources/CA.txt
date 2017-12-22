@@ -1,0 +1,131 @@
+Alturas:KAAT
+Arcata / Eureka, Arcata Airport:KACV
+Auburn Municipal Airport:KAUN
+Avalon Catalina Airport:KAVX
+Bakersfield, Meadows Field Airport:KBFL
+Big Bear City Airport:KL35
+Bishop, Bishop Airport:KBIH
+Blythe, Blythe Airport:KBLH
+Brackett Field Airport:KPOC
+Burbank - Bob Hope Airport:KBUR
+Camarillo, Camarillo Airport:KCMA
+Campo:KCZZ
+Carlsbad, McClellan-Palomar Airport:KCRQ
+Chico Municipal Airport:KCIC
+China Lake, Naval Air Facility:KNID
+Chino, Chino Airport:KCNO
+COLUMBIA:KO22
+Concord, Buchanan Field:KCCR
+Corona Airport:KAJO
+Crescent City, Jack McNamara Field Airport:KCEC
+Daggett, Barstow-Daggett Airport:KDAG
+Edwards Air Force Base:KEDW
+Edwards, Edwards Air Force Auxiliary North Base:K9L2
+El Centro, Naval Air Facility:KNJK
+El Monte:KEMT
+Emigrant Gap, Blue Canyon Nyack Airport:KBLU
+Fairfield / Travis Air Force Base:KSUU
+Fallbrook Community Airpark:KL18
+Fort Irwin/Barstow, Bicycle Lake Army Airfield:KBYS
+Fortuna Rohnerville Airport:KFOT
+Fresno Chandler Executive Airport:KFCH
+Fresno, Fresno Air Terminal:KFAT
+Fullerton, Fullerton Municipal Airport:KFUL
+General Wm J Fox Airfield:KWJF
+Gillespie Field Airport:KSEE
+Half Moon Bay Airport:KHAF
+Hanford Municipal Airport:KHJO
+Hawthorne, Hawthorne Municipal Airport:KHHR
+Hayward, Hayward Air Terminal:KHWD
+Hollister, CA:KCVH
+Imperial Beach Naval Outlying Field - Ream Field:KNRS
+Imperial, Imperial County Airport:KIPL
+John Wayne-Orange County Airport:KSNA
+Lemoore Naval Air Station - Reeves Field:KNLC
+Lincoln Regional Karl Harder Field:KLHM
+Livermore, Livermore Municipal Airport:KLVK
+Lompoc, Lompoc Airport:KLPC
+Lompoc, Vandenberg Air Force Base:KVBG
+Long Beach, Long Beach Airport:KLGB
+Los Alamitos Army Airfield:KSLI
+Los Angeles / USC Campus Downtown:KCQT
+Los Angeles, Los Angeles International Airport:KLAX
+Los Angeles, Whiteman Airport:KWHP
+Madera Municipal Airport:KMAE
+Mammoth Yosemite Airport:KMMH
+Marysville, Beale Air Force Base:KBAB
+Marysville, Yuba County Airport:KMYV
+Mcolf Camp Pendleton [Red Beach]:KNXF
+Merced / Castle Air Force Base:KMER
+Merced Regional Airport:KMCE
+Modesto City-County Airport - Harry Sham Field:KMOD
+Mojave:KMHV
+Montague Siskiyou County Airport:KSIY
+Monterey Regional Airport:KMRY
+Mount Shasta:KMHS
+Mountain View, Moffett Field:KNUQ
+Murrieta/Temecula French Valley:KF70
+Napa, Napa County Airport:KAPC
+Needles, Needles Airport:KEED
+Nevada County Air Park:KGOO
+Novato / Gnoss Field:KDVO
+Oakland, Metro Oakland International Airport:KOAK
+Oceanside, Camp Pendleton, Marine Corps Air Station:KNFG
+Oceanside, Oceanside Municipal Airport:KOKB
+Ontario International Airport:KONT
+Oroville Municipal Airport:KOVE
+Oxnard, Oxnard Airport:KOXR
+Palm Springs Regional Airport:KPSP
+Palm Springs, Jacqueline Cochran Regional Airport:KTRM
+Palmdale, Palmdale Production Flight Plant:KPMD
+Palo Alto Airport:KPAO
+Paso Robles Municipal Airport:KPRB
+Petaluma Municipal Airport:KO69
+Placerville Airport:KPVF
+Point Mugu, Naval Air Warfare Center:KNTD
+Porterville, Porterville Municipal Airport:KPTV
+Ramona, Ramona Airport:KRNM
+Red Bluff, Red Bluff Municipal Airport:KRBL
+Redding Municipal Airport:KRDD
+Riverside / March Air Force Base:KRIV
+Riverside Municipal Airport:KRAL
+Sacramento Executive Airport:KSAC
+Sacramento International Airport:KSMF
+Sacramento Mather Airport:KMHR
+Sacramento, McClellan Airfield Airport:KMCC
+Salinas, Salinas Municipal Airport:KSNS
+San Bernardino Intl. Airport:KSBD
+San Carlos Airport:KSQL
+San Clemente Island NALF:KNUC
+San Diego, Brown Field Municipal Airport:KSDM
+San Diego, Miramar MCAS/Mitscher Field Airport:KNKX
+San Diego, Montgomery Field:KMYF
+San Diego, North Island, Naval Air Station:KNZY
+San Diego, San Diego International-Lindbergh Field:KSAN
+San Francisco, San Francisco International Airport:KSFO
+San Jose / Reid / Hillv:KRHV
+San Jose, San Jose International Airport:KSJC
+San Luis Obispo, San Luis Obispo County-Mc Chesney Field:KSBP
+San Nicolas Island Naval Outlying Field:KNSI
+Sandberg:KSDB
+Santa Barbara, Santa Barbara Municipal Airport:KSBA
+Santa Maria Public Airport/Capt G Allan Hancock Field:KSMX
+Santa Monica, Santa Monica Municipal Airport:KSMO
+Santa Rosa, Santa Rosa Sonoma County Airport:KSTS
+Santa Ynez, Santa Ynez Airport:KIZA
+South County Airport of Santa Clara County:KE16
+South Lake Tahoe, Lake Tahoe Airport:KTVL
+Stockton, Stockton Metropolitan Airport:KSCK
+Susanville Municipal Airport:KSVE
+Tehachapi Municipal Airport:KTSP
+Torrance, Zamperini Field Airport:KTOA
+Trinity Center:KO86
+Truckee-Tahoe:KTRK
+Twentynine Palms SELF Airport:KNXP
+Ukiah Municipal Airport:KUKI
+University Airport:KEDU
+Vacaville Nut Tree Airport:KVCB
+Van Nuys, Van Nuys Airport:KVNY
+Victorville, Southern California Logistics Airport:KVCV
+Visalia, Visalia Municipal Airport:KVIS
+Watsonville, Watsonville Municipal Airport:KWVI

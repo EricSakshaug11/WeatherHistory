@@ -1,0 +1,43 @@
+Alabaster, Shelby County Airport:KEET
+Albertville, Albertville Municipal Airport:K8A0
+Alexander City, Thomas C Russell Field Airport:KALX
+Andalusia, Andalusia-Opp Municipal Airport:K79J
+Anniston Metro Airport:KANB
+Bessemer Airport:KEKY
+Birmingham, Birmingham International Airport:KBHM
+Cairns Army Air Field / Ozark:KOZR
+Craig Field / Selma:KSEM
+Cullman Regional Folsom Field:KCMD
+Decatur, Pryor Field:KDCU
+Demopolis Municipal Airport:KDYA
+Dothan, Dothan Regional Airport:KDHN
+Enterprise Municipal Airport:KEDN
+Eufaula Municipal Airport:KEUF
+Evergreen, Middleton Field:KGZH
+Florala, Florala Municipal Airport:K0J4
+Fort Payne, Isbell Field Airport:K4A9
+Fort Rucker, Lowe Army Heliport:KLOR
+Gadsden, Gadsden Municipal Airport:KGAD
+Haleyville, Posey Field Airport:K1M4
+Hanchey AHP / Ozark:KHEY
+Huntsville, Huntsville International / Jones Field:KHSV
+Huntsville, Madison County Executive Airport:KMDQ
+Jack Edwards Airport:KJKA
+Jasper Walker County Airport & Bevill Field:KJFX
+Mac Crenshaw Memorial Airport:KPRN
+Maxwell Air Force Base / Montgomery:KMXF
+Merkel Field Sylacauga Municipal Airport:KSCD
+Mobile, Mobile Downtown Airport:KBFM
+Mobile, Mobile Regional Airport:KMOB
+Montgomery, Dannelly Field:KMGM
+Muscle Shoals, North West Alabama Regional Airport:KMSL
+Prattville - Grouby Field:K1A9
+Redstone Airfield:KHUA
+SCHELL AHP:KSXS
+Scottsboro Municipal Airport:K4A6
+Sonny Callahan Airport:KCQF
+St Clair County Airport:KPLR
+Talladega Municipal Airport:KASN
+Troy, Troy Municipal Airport:KTOI
+Tuscaloosa Regional Airport:KTCL
+Vaiden Fld Airport:KA08

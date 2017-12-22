@@ -1,0 +1,35 @@
+BEACH:K20U
+Bismarck, Bismarck Municipal Airport:KBIS
+CANDO:K9D7
+CARRINGTON:K46D
+CAVALIER:K2C8
+Cooperstown:KS32
+CROSBY:KD50
+Devils Lake, Devils Lake Municipal Airport:KDVL
+Dickinson, Dickinson Municipal Airport:KDIK
+Fargo, Hector International Airport:KFAR
+Garrison:KN60
+Glen Ullin Regional Airport:KD57
+GRAFTON:KGAF
+Grand Forks Air Force Base:KRDR
+Grand Forks, Grand Forks International Airport:KGFK
+Gwinner:KGWR
+Harvey Municipal Airport:K5H4
+HAZEN:KHZE
+Hettinger, Hettinger Municipal Airport:KHEI
+Jamestown, Jamestown Municipal Airport:KJMS
+Langdon:KD55
+LINTON:K7L2
+MANDAN:KY19
+Minot Air Force Base:KMIB
+Minot, Minot International Airport:KMOT
+Oakes Municipal Airport:K2D5
+ROLLA:K06D
+RUGBY:KRUG
+Stanley Municipal Airport:K08D
+TIOGA:KD60
+Valley City:KBAC
+Wahpeton, Harry Stern Airport:KBWP
+Walhalla Municipal Airport:K96D
+WATFORD CITY:KS25
+Williston, Sloulin Field International Airport:KISN

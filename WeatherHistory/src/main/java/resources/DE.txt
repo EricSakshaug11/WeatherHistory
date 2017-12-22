@@ -1,0 +1,3 @@
+Dover Air Force Base:KDOV
+Georgetown - Delaware Coastal Airport:KGED
+Wilmington, New Castle County Airport:KILG

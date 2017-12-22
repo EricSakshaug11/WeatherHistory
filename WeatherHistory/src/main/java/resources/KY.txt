@@ -1,0 +1,34 @@
+Ashland Regional Airport:KDWU
+Big Sandy Regional Airport:KSJS
+Bowling Green, Bowling Green-Warren County Regional Airport:KBWG
+Cincinnati/Northern Kentucky International Airport:KCVG
+Clyde A. Thomas Regional Airport:KSYM
+Elizabethtown Addington Field Airport:KEKX
+Flemingsburg Fleming-Mason Airport:KFGX
+Fort Campbell U. S. Army Airfield:KHOP
+Fort Knox:KFTK
+Frankfort, Capital City Airport:KFFT
+Glasgow, Glasgow Municipal Airport:KGLW
+Hancock County Airport-Ron Lewis Field:KKY8
+Harlan:KI35
+Henderson City:KEHR
+Jackson, Carroll Airport:KJKL
+Lebanon-Springfield Airport:K6I2
+Lexington Blue Grass Airport:KLEX
+London, London-Corbin Airport-Magee Field:KLOZ
+Louisville, Bowman Field Airport:KLOU
+Louisville, Standiford Field:KSDF
+Madisonville Municipal Airport:K2I0
+Marion-crittenden County Airport:K5M9
+Mayfield Graves County Airport:KM25
+Middlesboro, Middlesboro-Bell County Airport:K1A6
+Monticello, Wayne County Airport:KEKQ
+Mount Sterling-Montgomery County Airport:KIOB
+Muhlenberg County Airport:KM21
+Murray Kyle Oakley Field, KY:KCEY
+Owensboro, Owensboro-Daviess County Airport:KOWB
+Paducah, Barkley Regional Airport:KPAH
+Pikeville Pike County Airport and Hatcher Field:KPBX
+Somerset, Somerset-Pulaski County - J.T. Wilson Field Airport:KSME
+Stuart Powell Field Airport:KDVK
+Williamsburg-Whitley County Airport:KBYL

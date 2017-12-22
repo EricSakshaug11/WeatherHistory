@@ -1,0 +1,10 @@
+Bridgeport, Sikorsky Memorial Airport:KBDR
+Chester, Chester Airport:KSNC
+Danbury, Danbury Municipal Airport:KDXR
+Groton / New London, Groton / New London Airport:KGON
+Hartford, Hartford-Brainard Airport:KHFD
+Meriden, Meriden Markham Municipal Airport:KMMK
+New Haven, Tweed-New Haven Airport:KHVN
+Oxford, Waterbury-Oxford Airport:KOXC
+Willimantic, Windham Airport:KIJD
+Windsor Locks, Bradley International Airport:KBDL
