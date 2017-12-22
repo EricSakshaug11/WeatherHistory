@@ -61,7 +61,7 @@ public class Station {
         access.closeStream();
         currHuman = HumanTranslator.translate(currReading);
         currComputer = HumanTranslator.computerTranslate(currReading);
-        currComputerArray = HumanTranslator.arrayComputerTranslate(currReading).clone();
+        currComputerArray = HumanTranslator.arrayComputerTranslate(currReading, callsign).clone();
         //System.out.println(location + " has been updated");
         //System.out.println(currComputer);
     }

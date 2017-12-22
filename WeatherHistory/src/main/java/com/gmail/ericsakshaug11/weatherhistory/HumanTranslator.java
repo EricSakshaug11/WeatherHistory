@@ -85,7 +85,7 @@ public class HumanTranslator {
       }
       toReturn[10] = new String();
       if(getAtmosphericConditions() != null){
-        toReturn[10] = toReturn[10] + getAtmosphericConditions() + ";";
+        toReturn[10] = toReturn[10] + getAtmosphericConditions() + ", ";
       }
       return toReturn;
     }

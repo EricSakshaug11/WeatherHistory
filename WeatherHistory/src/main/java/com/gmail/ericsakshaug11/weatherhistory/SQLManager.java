@@ -60,9 +60,10 @@ public class SQLManager {
         System.out.println("Inserting: " + holder[0]);
         for(int i = 0 ; i < holder.length ; i++){
           prepare.setString(i+1, holder[i]);
-          System.out.print(" added " + holder[i]);
+          //System.out.print(" " + holder[i]);
         }
-        //prepare.execute();
+        //System.out.println(" ");
+        prepare.execute();
       }
     }catch(Exception e){
       e.printStackTrace();
