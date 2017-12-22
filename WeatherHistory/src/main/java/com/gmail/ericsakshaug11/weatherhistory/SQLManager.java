@@ -50,22 +50,34 @@ public class SQLManager {
   
   public void addWeatherData(LinkedList<Station> stations){
     Iterator<Station> iterate = stations.iterator();
-    try{
-      PreparedStatement prepare = connection.prepareStatement(ResourcePool.WEATHER_DATA_PREPARED_STATEMENT);
-      while(iterate.hasNext()){
-        Station tempStation = iterate.next();
-        String[] holder = tempStation.getComputerReadableArray().clone();
-        System.out.println("Inserting: " + holder[0]);
-        for(int i = 0 ; i < holder.length ; i++){
-          prepare.setString(i+1, holder[i]);
-          //System.out.print(" " + holder[i]);
-        }
-        //System.out.println(" ");
-        prepare.execute();
+    PreparedStatement prepare = null;
+      try{
+        prepare = connection.prepareStatement(ResourcePool.WEATHER_DATA_PREPARED_STATEMENT);
+      }catch(Exception e){
+        e.printStackTrace();
       }
-    }catch(Exception e){
-      e.printStackTrace();
-    }
+    while(iterate.hasNext()){
+      Station tempStation = iterate.next();
+      String[] holder = tempStation.getComputerReadableArray().clone();
+      System.out.println("Inserting: " + holder[0]);
+      for(int i = 0 ; i < holder.length ; i++){
+        try{
+          prepare.setString(i+1, holder[i]);
+        }catch(Exception e){
+          e.printStackTrace();
+        }
+      }
+      //System.out.print(" " + holder[i]);
+      try{
+        prepare.execute();
+      }catch(SQLException e){
+        if(e instanceof com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException){
+          System.out.println("Duplicate entry detected, skipping");
+        }else{
+          e.printStackTrace();
+        }
+      }
+    }  
   }
   
   public LinkedList<Station> createStations(){
