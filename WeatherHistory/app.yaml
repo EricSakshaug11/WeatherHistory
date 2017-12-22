@@ -6,6 +6,12 @@ env: flex
 # for production use. For more information, see:
 # https://cloud.google.com/appengine/docs/flexible/python/configuring-your-app-with-app-yaml
 
+
+steps:
+- name: 'gcr.io/cloud-builders/mvn'
+  args: ['install']
+- name: 'gcr.io/cloud-builders/mvn'
+  args: ['package']
 skip_files:
 - ^(.*/)?\.txt$
 runtime_config:
@@ -16,11 +22,6 @@ network:
     - 2222
 manual_scaling:
   instances: 1
-steps:
-- name: 'gcr.io/cloud-builders/mvn'
-  args: ['install']
-- name: 'gcr.io/cloud-builders/mvn'
-  args: ['package']
 resources:
   cpu: 2
   memory_gb: 2.0
