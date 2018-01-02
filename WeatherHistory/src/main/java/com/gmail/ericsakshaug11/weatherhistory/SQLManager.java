@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.gmail.ericsakshaug11.weatherhistory;
 
 import java.sql.Connection;
@@ -49,8 +44,10 @@ public class SQLManager {
   }
   
   public void addWeatherData(LinkedList<Station> stations){
+      System.out.println("Inserting data for " + stations.size() + " stations.");
     Iterator<Station> iterate = stations.iterator();
     PreparedStatement prepare = null;
+    int numOfDupes = 0;
       try{
         prepare = connection.prepareStatement(ResourcePool.WEATHER_DATA_PREPARED_STATEMENT);
       }catch(Exception e){
@@ -59,7 +56,7 @@ public class SQLManager {
     while(iterate.hasNext()){
       Station tempStation = iterate.next();
       String[] holder = tempStation.getComputerReadableArray().clone();
-      System.out.println("Inserting: " + holder[0]);
+      //System.out.println("Inserting: " + holder[0]);
       for(int i = 0 ; i < holder.length ; i++){
         try{
           prepare.setString(i+1, holder[i]);
@@ -72,12 +69,14 @@ public class SQLManager {
         prepare.execute();
       }catch(SQLException e){
         if(e instanceof com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException){
-          System.out.println("Duplicate entry detected, skipping");
+            System.out.println("Duplicate entry detected, for station: " + tempStation.getCallsign() + ", skipping");
+            numOfDupes++;
         }else{
           e.printStackTrace();
         }
       }
-    }  
+    }
+    System.out.println("Successfully inserted all data, with skipping " + numOfDupes + " duplicates"); 
   }
   
   public LinkedList<Station> createStations(){
@@ -93,6 +92,7 @@ public class SQLManager {
     }catch(Exception e){
       e.printStackTrace();
     }
+    System.out.println("All station objects created");
     return toReturn;
   }
 

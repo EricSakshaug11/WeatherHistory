@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.gmail.ericsakshaug11.weatherhistory;
 
 import java.util.Scanner;
@@ -33,7 +28,7 @@ public class Station {
       currReading = null;
       state = temp[2];
       url = "http://w1.weather.gov/data/METAR/" + callsign + ".1.txt";
-      System.out.println("made the object for: " + callsign);
+      //System.out.println("made the object for: " + callsign);
     }
     
     public Station(String callsign, String state, String location){
@@ -43,11 +38,11 @@ public class Station {
         lastReading = null;
         currReading = null;
         url = "http://w1.weather.gov/data/METAR/" + callsign + ".1.txt";
-        System.out.println("made the object for: " + callsign);
+        //System.out.println("made the object for: " + callsign);
     }
     
     public void update(){
-      System.out.println("Updating: " + location);
+        //System.out.println("Updating: " + location);
         TextWebAccessor access = new TextWebAccessor(url);
         //System.out.println(url);
         Scanner scanner = new Scanner(access.getStream());        
