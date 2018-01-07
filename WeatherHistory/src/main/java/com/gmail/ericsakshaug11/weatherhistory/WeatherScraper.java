@@ -26,8 +26,9 @@ public class WeatherScraper {
     /* 
      * The following statement runs the scraper at an interval of
      * one hour, starting at the beginning of the execution. 
-     * For instance, if the thread begins running at 4:05, and 
-     * ends a cycle at 4:10, the next cycle would begin at 5:05.
+     * For instance, if the thread begins running at 4:05 PM, and 
+     * ends a cycle at 4:10, the next cycle would begin at 5:05 PM.
+     * The reason being that most stations update only once per hour.
      */
     ses.scheduleAtFixedRate(new Runnable(){
       @Override
