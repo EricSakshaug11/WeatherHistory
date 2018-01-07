@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.gmail.ericsakshaug11.weatherhistory;
 
 import java.util.HashMap;
@@ -14,16 +9,29 @@ import java.util.LinkedList;
  */
 public class ResourcePool {
 
-  public static final String SQL_IP_ADDRESS = "35.227.100.200";
+  //The IP address of the cloud SQL server
+  public static final String SQL_IP_ADDRESS = "35.227.100.200"; 
+
+  //The connection credentials of the cloud SQL server
   public static final String DATABASE_NAME = "weather_history";
   public static final String INSTANCE_CONNECTION_NAME = "weather-history-188703:us-east1:weather-history-2";
   public static final String DATABASE_USER_NAME = "root";
   public static final String DATABASE_PASSWORD = "HowsTheWeather";
+
+  //For when there is no data available
   public static final String NO_DATA_AVAILABLE = "NDA";
+
+  //Formatted String to insert data into the main weather table
   public static final String WEATHER_DATA_PREPARED_STATEMENT = "INSERT INTO weather_data "
                                                              + "VALUES (?,?,?,?,?,?,?,?,?,?,?,?)";
+
+  //For wind direction cardinality between degrees and cardinal directions
   public static final HashMap<Integer, String> CARDINALITY_MAP = new HashMap<>();
+
+  //For cloud coverage between METAR clodes, and human readable information
   public static final HashMap<String, String> COVERAGE_MAP = new HashMap<>();
+
+  //For the atmospheric conditions (e.g. Rain, snow, fog)
   public static final HashMap<String, String> ATMOSPHERIC_CONDITION_MAP = new HashMap<>();
 
   static {
