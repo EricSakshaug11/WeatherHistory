@@ -13,13 +13,15 @@ public class HumanTranslator {
     private static String[] holder;
     private static Calendar utcCal = Calendar.getInstance(TimeZone.getTimeZone("UTC"));
     private static Calendar cvtCal = Calendar.getInstance(TimeZone.getTimeZone("Atlantic/Cape_Verde"));
-    
+
+    /*
+     * This method translates the METAR string into a human readable format
+     */
     public static String translate(String newToTranslate){
       toTranslate = newToTranslate;
       String toReturn = new String();
       strip();
       split();
-      //System.out.println(toTranslate);
       toReturn = getStationID() + " reports the conditions at \n";
       toReturn = toReturn + getTimeOfDay() + " on " + getMonth() + "/" + getDay() + "/" + getYear() + "\n";
       toReturn = toReturn + "The wind was coming from: " + getWindDirectionDegrees() + " degrees (" + getWindDirectionCardinal() + ")" + "\n";
@@ -36,7 +38,11 @@ public class HumanTranslator {
       }
       return toReturn;
     }
-    
+
+    /*
+     * This method translates the METAR string into a string more usable by
+     * a computer. This method is not as useful as arrayComputerTranslate
+     */
     public static String computerTranslate(String newToTranslate){
       toTranslate = newToTranslate;
       String toReturn = new String();
@@ -60,7 +66,11 @@ public class HumanTranslator {
       toReturn = toReturn.substring(0,toReturn.lastIndexOf(";"));
       return toReturn;
     }
-    
+
+    /*
+     * Translates the METAR string into an array for direct insertion into 
+     * the SQL database.
+     */
     public static String[] arrayComputerTranslate(String newToTranslate, String station){
       toTranslate = newToTranslate;
       String[] toReturn = new String[12];
@@ -85,32 +95,34 @@ public class HumanTranslator {
       }
       return toReturn;
     }
-    
+
+    // Removes control data from the METAR string that we do not need
     private static void strip(){
         toTranslate = toTranslate.substring(toTranslate.indexOf("METAR") + 6);
-        //System.out.println(toTranslate);
     }
-    
+
+    // Splits the string into tokens that are easier to use
     private static void split(){
         holder = toTranslate.split(" ");
     }
-    
+
+    // Returns the station's callsign
     private static String getStationID(){
         return toTranslate.substring(0, toTranslate.indexOf(" "));
     }
-    
+
+    // Calls getSplitByRegex(regex,1)
     private static String getSplitByRegex(String regex) throws ArrayIndexOutOfBoundsException{
-        //System.out.println(regex);
-        //System.out.println(toTranslate);
         return getSplitByRegex(regex,1)[0];
     }
-    
+
+    //Finds a specific match in the METAR string that matches a regex.
+    //Will return an array with size max as full as it can be.
     private static String[] getSplitByRegex(String regex, int max){
         String tempToReturn[] = new String[max];
         int numMatches = 0;
         for(int i = 0 ; i < holder.length && numMatches < max ; i++){
             if(holder[i].matches(regex)){
-                //System.out.println(holder[i] + " matches " + regex);
                 tempToReturn[numMatches] = holder[i];
                 numMatches++;
             }
@@ -119,7 +131,6 @@ public class HumanTranslator {
         for(int j = 0 ; j < toReturn.length ; j++){
             toReturn[j] = tempToReturn[j];
         }
-        //System.out.println(toReturn[0]);
         return toReturn;
     }
     
@@ -248,7 +259,8 @@ public class HumanTranslator {
         }
         return toReturn;
     }
-    
+
+    //Needs to be fixed!
     private static String getAtmosphericConditions(){
         String conditions = new String();
         boolean foundConditions = false;
