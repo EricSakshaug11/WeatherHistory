@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.gmail.ericsakshaug11.weatherhistory;
 
 import java.io.File;
@@ -19,17 +14,22 @@ public class TextWebAccessor {
     private URL url;
     private InputStream urlStream;
     private boolean ready;
-    
+
+    /*
+     * Creates a TextWebAccessor object. Requires the url of the website
+     */
     public TextWebAccessor(String siteURL){
         try{
             url = new URL(siteURL); 
-            //System.out.println("Got URL");
             openStream();
         }catch(Exception e){
             e.printStackTrace();
         }
     }
-    
+
+    /*
+     * Opens a stream with the website to begin reading text. 
+     */
     private void openStream(){
         try{
             urlStream = url.openStream();
@@ -39,7 +39,10 @@ public class TextWebAccessor {
             e.printStackTrace();
         }
     }
-    
+
+    /*
+     * Safely closes the stream with the website
+     */
     public boolean closeStream(){
         if(ready){
             try{
