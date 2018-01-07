@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.gmail.ericsakshaug11.weatherhistory;
 
 import java.io.BufferedWriter;
@@ -15,6 +10,9 @@ import java.util.Scanner;
 /**
  *
  * @author Eric
+ * This entire class should not be used, except in the event of an 
+ * emergency where the database is lost. Instead, use 
+ * SQLManager.createStations() to set up stations.
  */
 public class StationFileManager {
     private Scanner scan;
