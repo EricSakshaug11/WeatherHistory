@@ -17,6 +17,8 @@ public class SQLManager {
 
   
   private final static SQLManager HOLDER;
+
+  //The URL for the SQL server  
   String jdbcUrl = String.format(
     "jdbc:mysql://google/%s?cloudSqlInstance=%s&"
         + "socketFactory=com.google.cloud.sql.mysql.SocketFactory",
@@ -42,9 +44,15 @@ public class SQLManager {
   public static SQLManager getSQLManager() {
     return HOLDER;
   }
-  
+
+  /* 
+   * Adds the data from a LinkedList of stations to the database. This method
+   * Will query the stations, format it for  the server, and ensure there are
+   * No duplicates in the server by catching the MySQLIntegrityConstraint 
+   * Exception
+   */ 
   public void addWeatherData(LinkedList<Station> stations){
-      System.out.println("Inserting data for " + stations.size() + " stations.");
+    System.out.println("Inserting data for " + stations.size() + " stations.");
     Iterator<Station> iterate = stations.iterator();
     PreparedStatement prepare = null;
     int numOfDupes = 0;
@@ -56,7 +64,6 @@ public class SQLManager {
     while(iterate.hasNext()){
       Station tempStation = iterate.next();
       String[] holder = tempStation.getComputerReadableArray().clone();
-      //System.out.println("Inserting: " + holder[0]);
       for(int i = 0 ; i < holder.length ; i++){
         try{
           prepare.setString(i+1, holder[i]);
@@ -64,21 +71,28 @@ public class SQLManager {
           e.printStackTrace();
         }
       }
-      //System.out.print(" " + holder[i]);
       try{
         prepare.execute();
-      }catch(SQLException e){
+      }
+      /*
+       * Since execute can throw multiple types of SQLException, and I only 
+       * care about one, we're going to catch all of them, and handle the one
+       * with an if statement.
+       */ 
+      catch(SQLException e){ 
+
+	  //Duplicate entries are handled with this if statement
         if(e instanceof com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException){
             System.out.println("Duplicate entry detected, for station: " + tempStation.getCallsign() + ", skipping");
             numOfDupes++;
         }else{
           e.printStackTrace();
         }
-      }
     }
     System.out.println("Successfully inserted all data, with skipping " + numOfDupes + " duplicates"); 
   }
-  
+
+    //Creates all Station objects from the station_data table
   public LinkedList<Station> createStations(){
     String dumpStations = "SELECT * FROM station_data;";
     LinkedList<Station> toReturn = new LinkedList<Station>();
@@ -96,6 +110,10 @@ public class SQLManager {
     return toReturn;
   }
 
+  /* 
+   * Old code for creating the database. Should not ever need to be used, but 
+   * will remain commented out for emergencies.
+   */
   /*public void createTables(){
     String stationTableCreation = "CREATE TABLE station_data( "
                                 + "Callsign varchar(10), "
